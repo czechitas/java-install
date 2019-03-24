@@ -30,7 +30,7 @@ Poznámka: **7-Zip** není součástí `Java-Training.7z` a můžete ho tedy upd
 Zkušené uživatelky mohou přeskočit ke krátkému [popisu](#kratky),
 ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
-1.  Stáhněte si archív s instalací.
+1.  Stáhněte si archív s instalací
     [Java-Training.7z](https://1drv.ms/u/s!AijQjx8qkEJYbclUNVcv68eyBy4)
 
 1.  Nainstalujte si **7-Zip**.
@@ -74,18 +74,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
     ![](img/screenshot13.png)
 
-### Stažení samotného instalačního archívu
-
-14. Kompletní přednastavený archív si stáhněte z tohoto odkazu:
-    [Java-Training.7z](http://javabrno.czechitas.cz/install/2018-jaro/install-community/Java-Training.7z).
-
-    ![](img/screenshot14.png)
-
-15. ![](img/screenshot15.png)
-
-16. ![](img/screenshot16.png)
-
-17. ![](img/screenshot17.png)
+### Samotný postup instalace
 
 18. Na soubor `Java-Training.7z` ve složce
     `Downloads` klikněte pravým tlačítkem
@@ -198,7 +187,7 @@ Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (
 
 3.  Vybalte `Java-Training.7z` do `C:\Java-Training`.
 
-    Pro kontrolu, že jste archív rozbalily do správného umístění:
+    Pro kontrolu, že jste archív rozbalili do správného umístění:
     Po rozbalení musíte mít na disku `C:` tuto složku
     `C:\Java-Training\Projects\DemoApplication`
 

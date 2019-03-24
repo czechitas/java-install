@@ -26,21 +26,8 @@ Updatované verze by ztratily konfiguraci a materiály z kurzu by nešly spustit
 Zkušené uživatelky mohou přeskočit ke krátkému [popisu](#kratky),
 ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
-1.  Stáhněte si archív s instalací.
+1.  Stáhněte si archív s instalací
     [Java-Training.zip](https://1drv.ms/u/s!AijQjx8qkEJYbnyARmOgPkkCH5w).
-    Soubor se začne stahovat. Průběh lze sledovat například v horním tlačítku Stahování (Downloads).
-
-	![](img/screenshot01.png)
-
-2. 	![](img/screenshot02.png)
-
-3. 	![](img/screenshot03.png)
-
-4. 	![](img/screenshot04.png)
-
-5. 	![](img/screenshot05.png)
-
-6. 	![](img/screenshot06.png)
 
 7. 	Soubor `Java-Traning.zip` rozbalte dvojklinutím.
     ![](img/screenshot07.png)
