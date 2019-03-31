@@ -27,7 +27,7 @@ Zkušené uživatelky mohou přeskočit ke krátkému [popisu](#kratky),
 ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 1.  Stáhněte si archív s instalací
-    [Java-Training.zip](https://l.messenger.com/l.php?u=https%3A%2F%2F1drv.ms%2Fu%2Fs!AijQjx8qkEJYb-qNFBPpPdd1B_E&h=AT1Vk90VD-gXN-mnNGHVQP3YSNiUqFyCiDOoIRrEorf9xw5u2T3rfnIa4v04p6z0YsWlGFBhPvHfZOfELyKmkS2PXca0H_dct0VEALrpC5M30kHRSIO9b9pnjPOr26L94_O9HV85_0hBghp-1RcwvQ).
+    [Java-Training.zip](https://onedrive.live.com/?authkey=%21AOqNFBPpPdd1B_E&cid=5842902A1F8FD028&id=5842902A1F8FD028%21111&parId=5842902A1F8FD028%21107&action=locate).
 
 7. 	Soubor `Java-Traning.zip` rozbalte dvojklinutím.
     ![](img/screenshot07.png)
@@ -263,7 +263,7 @@ Doporučujeme tento popis nepoužít a postupovat podle obrázků [výše](#deta
 Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (Community Edition).
 **Neinstalujte** si je **ručně**, stáhněte si předpřiravený archív.
 
-1.  Stáhněte si [Java-Training.zip](https://l.messenger.com/l.php?u=https%3A%2F%2F1drv.ms%2Fu%2Fs!AijQjx8qkEJYb-qNFBPpPdd1B_E&h=AT1Vk90VD-gXN-mnNGHVQP3YSNiUqFyCiDOoIRrEorf9xw5u2T3rfnIa4v04p6z0YsWlGFBhPvHfZOfELyKmkS2PXca0H_dct0VEALrpC5M30kHRSIO9b9pnjPOr26L94_O9HV85_0hBghp-1RcwvQ).
+1.  Stáhněte si [Java-Training.zip](https://onedrive.live.com/?authkey=%21AOqNFBPpPdd1B_E&cid=5842902A1F8FD028&id=5842902A1F8FD028%21111&parId=5842902A1F8FD028%21107&action=locate).
    
 2.  Pokud už jste někdy instalaci na Java kurzy prováděli, zazálohujte si složku
     `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training/Projects` (například do Documents),
