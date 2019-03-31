@@ -31,7 +31,7 @@ Zkušené uživatelky mohou přeskočit ke krátkému [popisu](#kratky),
 ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 1.  Stáhněte si archív s instalací
-    [Java-Training.7z](https://1drv.ms/u/s!AijQjx8qkEJYbclUNVcv68eyBy4)
+    [Java-Training.7z](https://l.messenger.com/l.php?u=https%3A%2F%2F1drv.ms%2Fu%2Fs!AijQjx8qkEJYcJelykMRbCPi-Nc&h=AT1Vk90VD-gXN-mnNGHVQP3YSNiUqFyCiDOoIRrEorf9xw5u2T3rfnIa4v04p6z0YsWlGFBhPvHfZOfELyKmkS2PXca0H_dct0VEALrpC5M30kHRSIO9b9pnjPOr26L94_O9HV85_0hBghp-1RcwvQ)
 
 1.  Nainstalujte si **7-Zip**.
 
@@ -176,7 +176,7 @@ Doporučujeme tento popis nepoužít a postupovat podle obrázků [výše](#deta
 Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (Community Edition).
 **Neinstalujte** si je **ručně**, stáhněte si předpřiravený archív.
 
-1.  Stáhněte si [Java-Training.7z](https://1drv.ms/u/s!AijQjx8qkEJYbclUNVcv68eyBy4).
+1.  Stáhněte si [Java-Training.7z](https://l.messenger.com/l.php?u=https%3A%2F%2F1drv.ms%2Fu%2Fs!AijQjx8qkEJYcJelykMRbCPi-Nc&h=AT1Vk90VD-gXN-mnNGHVQP3YSNiUqFyCiDOoIRrEorf9xw5u2T3rfnIa4v04p6z0YsWlGFBhPvHfZOfELyKmkS2PXca0H_dct0VEALrpC5M30kHRSIO9b9pnjPOr26L94_O9HV85_0hBghp-1RcwvQ).
 
 2.  Pokud nemáte nainstalovaný **7-Zip**, nainstalujte si ho.
 
