@@ -8,10 +8,10 @@ Linux **není** podporován. Pokud byste potřebovali instalaci pro Linux,
 byl by to problém, se kterým je nutno se ozvat lektorovi.
 
 Pokud už jste instalaci na Java kurz někdy prováděly,
-nejspíš máte v `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training/Projects`
+nejspíš máte v `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects`
 projekty z minula. Doporučujeme vám je zazálohovat zkopírováním například do `Dokumenty` ve vašem uživatelském profilu
 a po dokončení instalace je přesunout zpět do složky
-`/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training/Projects`.
+`/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects`.
 
 Pokud by kterýkoliv program,
 který si nainstalujete v rámci této instalace,
@@ -42,7 +42,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 12. ![](img/screenshot12.png)
 
-13. Přetáhněte složku `Java-Training` do `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO`
+13. Přetáhněte složku `Java-Training` do `/Users/VASE_UZIVATELSKE_JMENO`
     (složka Home, česky Domov).
      Při přetahování podržte klávesu Option (Alt),
      aby v případě už existující starší verze `Java-Training` v cílové složce
@@ -53,7 +53,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 14. Pokud na vás vyskočí tento dialog,
     znamená to, že už jste měly předchozí instalaci na kurz.
     Zvolte **Merge**, abyste nepřisly o vaše předchozí projekty
-    (složku `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training/Projects`).
+    (složku `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects`).
     Případně můžete přetahování zrušit, složku s projekty si přesunout
     (například do Documents) a zopakovat předchozí krok.
     
@@ -134,7 +134,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 33. ![](img/screenshot36.png)
 
-33. Najděte si soubor `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training/User-Config/IntelliJ-Community/config/options/path.macros.xml`.
+33. Najděte si soubor `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/User-Config/IntelliJ-Community/config/options/path.macros.xml`.
     
     ![](img/screenshot37.png)
 
@@ -266,11 +266,11 @@ Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (
 1.  Stáhněte si [Java-Training.zip](https://onedrive.live.com/?authkey=%21AOqNFBPpPdd1B_E&cid=5842902A1F8FD028&id=5842902A1F8FD028%21111&parId=5842902A1F8FD028%21107&action=locate).
    
 2.  Pokud už jste někdy instalaci na Java kurzy prováděli, zazálohujte si složku
-    `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training/Projects` (například do Documents),
+    `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects` (například do Documents),
     abyste o starší projekty nepřisli.
    
 
-2.  Vybalte obsah `Java-Training.zip` do `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training`.
+2.  Vybalte obsah `Java-Training.zip` do `/Users/VASE_UZIVATELSKE_JMENO/Java-Training`.
 
     Pozor! Pokud už jste někdy instalaci na Java kurz prováděli,
     nenahrazujte celou složku Java-Training novou verzí.
@@ -281,10 +281,10 @@ Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (
     typu **Commander One** nebo **Midnight Commander**.
 
     Pro kontrolu správného umístění zkontrolujte, že máte přítomnu tuto složku:
-    `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training/Projects/DemoApplication`.
+    `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects/DemoApplication`.
    
 3.  Připojte instalační medium `ideaIC-2018.3.5.1.dmg`
-    (které najdete v `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training/ideaIC-2018.3.5.1.dmg`)
+    (které najdete v `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/ideaIC-2018.3.5.1.dmg`)
     a nainstalujte z něj aplikaci `IntelliJ IDEA CE - Java-Training`.
    
 4.  Spusťte tuto aplikaci, aby se zkontroloval její digitální podpis a ihned ji zavřete.
@@ -307,16 +307,16 @@ Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (
     jinak by nešly otevírat materiály z kurzu.
 
 7.  Dále je nutné změnit zástupné cesty uvnitř konfiguračních souborů IntelliJ IDEA.
-    Najdete je v `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training/User-Config/IntelliJ-Community/config/options/path.macros.xml`
+    Najdete je v `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/User-Config/IntelliJ-Community/config/options/path.macros.xml`
 
     ~~~~
-    JAVATRAINING           /Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training
+    JAVATRAINING           /Users/VASE_UZIVATELSKE_JMENO/Java-Training
     ~~~~
-    Změňte zástupný text `VAŠE_UŽIVATELSKÉ_JMÉNO` na vaše skutečné jméno složky.
+    Změňte zástupný text `VASE_UZIVATELSKE_JMENO` na vaše skutečné jméno složky.
     Toto umístění je specifické pro váš počítač, proto je nutné to udělat ručně.
      
 8.  Otevřete ukázkový projekt v
-    `/Users/VAŠE_UŽIVATELSKÉ_JMÉNO/Java-Training/Projects/DemoApplication`.
+    `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects/DemoApplication`.
 
 9.  Po otevření se začne indexovat JDK, což bude pár minut trvat.
 
