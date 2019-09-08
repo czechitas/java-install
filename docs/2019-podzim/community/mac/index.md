@@ -23,6 +23,6 @@ Updatované verze by ztratily konfiguraci a materiály z kurzu by nešly spustit
 <a id="detailni">Detailní postup:</a>
 -------------------------------------
 
-Postupujte dle [video návodu](https://youtu.be/PmgJeo8iiK0)
+Postupujte dle [video návodu](https://youtu.be/PmgJeo8iiK0).
 
 Stáhnout archív s instalací [Java-Training.zip](https://1drv.ms/u/s!AijQjx8qkEJYea_n4JwaDrBA2y0?e=u2bsR7).
