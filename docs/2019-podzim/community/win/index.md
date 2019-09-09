@@ -187,25 +187,29 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
     ![](img/img38.png)
 
-41. Žádoucí výsledek je ukázán v kroku č. 32. Máte-li modrý a fialový text dle obrázku, můžete přejít k dalšímu kroku.
+41. Žádoucí výsledek: SwingExceptionHandler už není červeně.
+
+    ![](img/img39.png)
+
+42. Žádoucí výsledek je ukázán v kroku č. 32. Máte-li modrý a fialový text dle obrázku, můžete přejít k dalšímu kroku.
 
     Pokud přetrvává červený text, můžete zkusit ještě následující postup:
     - zavřete IntelliJ IDEA
     - spusťte soubor C:\Java-Training\Env\RunCmd.bat
-    - do objevivší se příkazové řádky postupně napsat (a na konci každé řádky stisknout [Enter]) tyto tři příkazy:
-    -cd ..\Projects\DemoApplication
-    -mvn clean
-    -mvn package
+    - do objevivší se příkazové řádky postupně napište (a na konci každé řádky stiskněte [Enter]) tyto tři příkazy:
+    - `cd ..\Projects\DemoApplication`
+    - `mvn clean`
+    - `mvn package`
     - znovu zapněte IntelliJ IDEA
     - stiskněte tlačítko pro reimport projektu (viz krok č. 35)
 
-42. Spusťte aplikaci klikem na zelenou šipku vpravo nahoře.
-
-    ![](img/img39.png)
-
-43. Pokud všechno funguje správně:
+43. Spusťte aplikaci klikem na zelenou šipku vpravo nahoře.
 
     ![](img/img40.png)
+
+44. Pokud všechno funguje správně:
+
+    ![](img/img41.png)
 
 
 ### Úklid dočasných souborů
