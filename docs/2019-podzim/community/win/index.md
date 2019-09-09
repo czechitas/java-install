@@ -201,7 +201,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
     - `mvn clean`
     - `mvn package`
     - znovu zapněte IntelliJ IDEA
-    - stiskněte tlačítko pro reimport projektu (viz krok č. 35)
+    - stiskněte tlačítko pro reimport projektu (viz krok č. 28)
 
 43. Spusťte aplikaci klikem na zelenou šipku vpravo nahoře.
 
