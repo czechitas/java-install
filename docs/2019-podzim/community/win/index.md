@@ -120,6 +120,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 24. ![](img/img22.png)
 
 25. Spusťte IntelliJ IDEA. (Buďte trpěliví - je normální, že počítač nějakou dobu "nic nedělá", než naskočí úvodní obrazovka.)
+    Od tohoto bodu je nutné, abyste byli **připojení na internet**.
 
     ![](img/img23.png)
   
@@ -146,7 +147,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
     ![](img/img28.png)
 
-31. V otevřeném projekty byste měli vidět soubor Main.java. Pokud ne, rozklikněte složky v projektu a dvojklikem na jméno souboru ho otevřete v editoru. 
+31. V otevřeném projektu byste měli vidět soubor Main.java. Pokud ne, rozklikněte složky v projektu a dvojklikem na jméno souboru ho otevřete v editoru.
 
     ![](img/img29.png)
 
