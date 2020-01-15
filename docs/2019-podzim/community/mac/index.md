@@ -29,4 +29,4 @@ Držte se tohoto video návodu:
 	frameborder="0"
 	allowfullscreen></iframe>
 
-Archív s instalací si můžete stáhnout zde: [Java-Training.zip](https://1drv.ms/u/s!AijQjx8qkEJYea_n4JwaDrBA2y0?e=u2bsR7).
+Archív s instalací si můžete stáhnout zde: [Java-Training.zip](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/mac/Java-Training.zip).

@@ -31,7 +31,7 @@ Zkušené uživatelky mohou přeskočit ke krátkému [popisu](#kratky),
 ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 1.  Stáhněte si archív s instalací
-    [Java-Training.7z](https://1drv.ms/u/s!AijQjx8qkEJYehKxsW0GobihutI?e=fL8aEN)
+    [Java-Training.7z](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/win/Java-Training.7z)
 
 2.  Nainstalujte si **7-Zip**.
 
@@ -99,9 +99,9 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
     ![](img/img16.png)
 
-20. ![](img/img17.png) 
+20. ![](img/img17.png)
 
-    Po rozbalení zavřete 7-Zip. 
+    Po rozbalení zavřete 7-Zip.
 
 21. Pro kontrolu, že jste archív rozbalily do správného umístění:
     Po rozbalení musíte mít na disku `C:` tuto složku
@@ -111,7 +111,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 21. Ve složce IntelliJ-Community najdete zástupce pro spouštění editoru IntelliJ IDEA. Doporučujeme zkopírovat ho na plochu.
 
-    ![](img/img19.png) 
+    ![](img/img19.png)
 
 22. ![](img/img20.png)
 
@@ -123,7 +123,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
     Od tohoto bodu je nutné, abyste byli **připojení na internet**.
 
     ![](img/img23.png)
-  
+
 
 26. ![](img/img24.png)
 
@@ -132,7 +132,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
     ![](img/img25.png)
 
 28. Pozor, v otevíracím dialogu rozklikávejte levé šipečky
-    **pouze jedním kliknutím** 
+    **pouze jedním kliknutím**
     a vstupujte tak do podsložek.
     **Neklikejte** na jméno složky **2x**.
     IntelliJ IDEA to čas od času může špatně pochopit a pokusit se složku,
@@ -172,7 +172,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
     ![](img/img34.png)
 
-37. Pokud celý proces úspěšně proběhl, vypíše se vám dole v okně "Process finished with exit code 0" 
+37. Pokud celý proces úspěšně proběhl, vypíše se vám dole v okně "Process finished with exit code 0"
 
     ![](img/img35.png)
 
@@ -223,40 +223,53 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v Downloads (Java-Tr
 
 <a id="kratky">Krátký popis (pouze pro zkušené):</a>
 ----------------------------------------------------
-Tento popis je jen pro experty a dokumentuje slovně, co se provádí během instalace.
+Tento popis je jen pro experty a popisuje jen slovně, co je potřeba provést pro úspěšnou instalaci.
 Doporučujeme tento popis nepoužít a postupovat podle obrázků [výše](#detailni).
 
-Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (Community Edition).
-**Neinstalujte** si je **ručně**, stáhněte si předpřiravený archív.
+Na kurzu budete potřebovat Javu (OpenJDK) a programátorský editor IntelliJ IDEA (Community Edition).
+**Nesmíte** si je ale nainstalovat z **oficiální** distribuce.
+Místo toho si stáhněte 1 přednastavený archív, který se jen rozbalí do povinného umístění (`C:\Java-Training\`) a vše bude fungovat.
 
-1.  Stáhněte si [Java-Training.7z](https://1drv.ms/u/s!AijQjx8qkEJYehKxsW0GobihutI?e=fL8aEN).
+Poznámka: Nic se doopravdy neinstaluje, všechno se jen rozbalí pomocí 7-Zipu. Jde vlastně o *portable distribuci*.
+
+Poznámka: Pokud už máte nainstalované **vlastní** JDK nebo IntelliJ IDEA, nevadí to, ale na kurzu je **používat nebudeme**.
+Je opravdu nutné, abyste provedli instalaci dle těchto pokynů. Výukové programy z naší instalace nijak neovlivní
+vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly by vám spouštět ukázkové příklady.
+
+1.  Stáhněte si [Java-Training.7z](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/win/Java-Training.7z).
 
 2.  Pokud nemáte nainstalovaný **7-Zip**, nainstalujte si ho.
 
-    Nepoužívejte **WinRAR** ani **WinZip**, protože ty nedokáží správně rozbalit archívy `.7z`.
+    Pozor! Nepoužívejte **WinRAR** ani **WinZip**, protože ty nedokáží správně rozbalit archívy `.7z`.
     Obecně doporučujeme **WinRAR** nebo **WinZip** úplně odinstalovat
     a používat výhradně **7-Zip**.
     Je zdarma, open-source a funguje výborně.
 
-3.  Vybalte `Java-Training.7z` do `C:\Java-Training`.
+3.  Spusťte 7zFM.exe (7-Zip File Manager) a otevřete v něm `Java-Training.7z`.
+    Rozbalte jej do `C:\Java-Training` (Extract to `C:\Java-Training`).
 
-    Pro kontrolu, že jste archív rozbalili do správného umístění:
+    Kontrola, že jste archív rozbalili do správného umístění:
     Po rozbalení musíte mít na disku `C:` tuto složku
     `C:\Java-Training\Projects\DemoApplication`
 
-3.  Ze složky `C:\Java-Training\IntelliJ-Community` si přetáhněte
+4.  Ze složky `C:\Java-Training\IntelliJ-Community` si přetáhněte
     zástupce `IntelliJ-Community.lnk`
-    na plochu nebo do nabídky Start.
+    na plochu a/nebo do nabídky Start (což je složka `C:\Users\VASE_UZIVATELSKE_JMENO\AppData\Roaming\Microsoft\Windows\Start Menu\Programs`).
 
-4.  Zástupcem spusťte IntelliJ-Community a otevřete ukázkový projekt
+5.  Spusťte IntelliJ-Community buď pomocí zástupce z minulého kroku
+    nebo spuštěním `C:\Java-Training\IntelliJ-Community\startup.bat`.
+
+6.  Otevřete v IntelliJ-Community složku s ukázkovým projektem (Open project)
     `C:\Java-Training\Projects\DemoApplication`.
+    Je nutné, abyste byli připojeni na internet.
 
-5.  Po otevření se začne indexovat JDK, což bude pár minut trvat.
+7.  Po otevření se začne indexovat JDK, což bude pár minut trvat. Průběh je zobrazen na dolní liště editoru.
 
-6. Až se to dokončí, zdrojový text v `Main.java` musí být převážně modrofialový.
+8.  Až se to dokončí, původně šedý zdrojový text v `Main.java` se přebarví převážně do modrofialova.
 
-    Pokud by byl naopak převážně černý, byl by to problém.
+    Pokud by zůstal převážně šedý, byl by to problém.
     Nejspíš byste totiž neměli archív vybalen ve správné složce
-    `C:\Java-Training`. Řešení - viz bod 33 a dále v popisu instalace.
+    `C:\Java-Training\`. Řešení - viz bod 33 v obrázkovém popisu instalace.
 
-7. Vpravo nahoře zezelená šipka pro spuštění ukázkového projektu, tak jej spusťte.
+9.  Vpravo nahoře v editoru zezelená šipka pro spuštění ukázkového projektu. Tak jej spusťte.
+    Projekt musí otevřít okno s nápisem `It works!`.

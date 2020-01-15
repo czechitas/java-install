@@ -22,4 +22,4 @@ Follow the video:
 	frameborder="0"
 	allowfullscreen></iframe>
 
-Installation archive is here: [Java-Training.zip](https://1drv.ms/u/s!AijQjx8qkEJYea_n4JwaDrBA2y0?e=u2bsR7).
+Installation archive is here: [Java-Training.zip](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/mac/Java-Training.zip).

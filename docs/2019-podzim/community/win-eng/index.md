@@ -20,7 +20,7 @@ If you are an experienced user, you can skip to the short [description](#kratky)
 but we recommend to follow this version.
 
 1.  Download the installation archive for later
-    [Java-Training.7z](https://1drv.ms/u/s!AijQjx8qkEJYehKxsW0GobihutI?e=fL8aEN)
+    [Java-Training.7z](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/win/Java-Training.7z)
 
 2.  Install **7-Zip**.
 
@@ -109,7 +109,7 @@ but we recommend to follow this version.
     It is necessary to be connected to the internet at this point.
 
     ![](../win/img/img23.png)
-  
+
     ![](../win/img/img24.png)
 
 27. Open the demo project `C:\Java-Training\Projects\DemoApplication`.
@@ -210,37 +210,57 @@ You can erase files from `Downloads` (`Java-Training.7z` and `7-Zipu` installer)
 
 
 
-<a id="kratky">Short description (only for experienced):</a>
+<a id="kratky">Short description (only for the experienced):</a>
 ------------------------------------------------------------
-This guide is only for experienced people who know what they are doing. We recommend going back up and follow the [detailed guide](#detailni).
+This guide is only for experienced people who know what they are doing.
+We recommend going back up and follow the [detailed guide](#detailni).
 
-The course requires installation of Javu (OpenJDK) and a programmer editor IntelliJ IDEA (Community Edition).
-**Do not install** it **manually**, use preconfigured archive.
+The training course requires installation of Java (OpenJDK) and a programming editor IntelliJ IDEA (Community Edition).
+**Do not install** it from the **offcial** distribution.
+Use our preconfigured archive which you just extract to the fixed folder on the disk (`C:\Java-Training\`) and you are good to go.
 
-1.  Download [Java-Training.7z](https://1drv.ms/u/s!AijQjx8qkEJYehKxsW0GobihutI?e=fL8aEN).
+Note: In fact, there is no serious installation going on. Files are just extracted to the fixed folder. It is a kind of a *portable distribution*.
 
-2.  If you don't have **7-Zip**, install it.
+Note: If you already have our own JDK or other included software installed on your computer,
+it is not a problem but it will not be used for the training course. It is absolutely necessary to use the piece of software from our installation package
+as it is all preconfigured. Our examples would not work without the special configuration.
 
-    Don't use **WinRAR** or **WinZip**, because they might not extract `.7z` correctly.
-    In general we recommend to uninstall **WinRAR** and **WinZip** completely as you must pay for their license. We consider it pointless when there is free and open-source 7-Zip.
+1.  Download [Java-Training.7z](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/win/Java-Training.7z).
 
-3.  Extract `Java-Training.7z` to `C:\Java-Training`.
+2.  If you do not have **7-Zip**, download and install it.
 
-    Check correct extraction:
-    You should have:
+    Warning! Do not use **WinRAR** or **WinZip**, because they cannot extract `.7z` correctly.
+    In general we recommend to uninstall **WinRAR** and **WinZip** completely as you must pay for their license.
+    We consider it pointless when there is the free and open-source 7-Zip.
+3.  Run 7zFM.exe (7-Zip File Manager) and open `Java-Training.7z` in it.
+    Extract the archive to `C:\Java-Training`.
+
+    Check that you extracted it correctly:
+    You should have
     `C:\Java-Training\Projects\DemoApplication`
+    folder on your `C:` drive.
 
-3.  Copy `IntelliJ-Community.lnk` from `C:\Java-Training\IntelliJ-Community` to your desktop (`C:\Users\YOUR_USERNAME\Desktop`) and possibly to your start menu (`C:\Users\YOUR_USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs`)
+4.  Copy `IntelliJ-Community.lnk` from `C:\Java-Training\IntelliJ-Community`
+    to your desktop (`C:\Users\YOUR_USERNAME\Desktop`) and possibly to your Start Menu
+    (`C:\Users\YOUR_USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs`)
 
-4.  Run `IntelliJ-Community` and open the demo project
+5.  Run `IntelliJ-Community` using the shortcut from previous step
+    or run `C:\Java-Training\IntelliJ-Community\startup.bat`.
+
+6.  Open the demo project selecting the folder
     `C:\Java-Training\Projects\DemoApplication`.
     You must be connected to the internet.
 
-5.  When you open the project, IntelliJ IDEA will start indexing JDK and libraries. It will take a couple of minutes.
+7.  When you open the project, IntelliJ IDEA will start indexing JDK and libraries.
+    It will take a couple of minutes.
+    Progress is displayed on the bottom editor line.
 
-6.  After the indexing finishes, `Main.java` will be mainly violet-blue.
+8.  After the indexing finishes, `Main.java` will become mainly violet-blue.
 
-    If it was mainly black, you wouldn't have it extracted to the correct folder. It must be `C:\Java-Training`. In that case, close everything, move it to the correct location and run IntelliJ IDEA again.
-    If it was red, follow on to the troubleshooting section of the detailed guide (point 33 in the detailed installation guide).
+    If it stayed mainly black-grey, you wouldn't have it extracted to the correct folder.
+    It must be in `C:\Java-Training`. In such a case, close everything, move it to the correct location and run IntelliJ IDEA again.
+    If it was red, follow on to the troubleshooting section of the detailed guide
+    (point 33 in the detailed installation guide).
 
-7.  If everyhing was successful, you can run the project using the green arrow on the right top bar.
+7.  If everyhing is successful, you can run the project using the green arrow on the right top bar.
+    Project will open a window with `It works!` label.
