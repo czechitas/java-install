@@ -17,7 +17,7 @@ nebo budou přepsány novější verzí programů, což je v pořádku.
 <a id="detailni">Detailní postup:</a>
 -------------------------------------
 
-Zkušení uživatelé a uživatelky mohou přeskočit ke krátkému [popisu](#kratky),
+Zkušení uživatelé mohou přeskočit ke krátkému [popisu](#kratky),
 ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 1.  Nainstalujte si **7-Zip**.
