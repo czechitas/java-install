@@ -19,7 +19,7 @@ Installation guide for Java courses
 (all software is free of charge)
 
 ![](img/logo-windows.png)
-Guide for Windows is [HERE](win-eng/).
+Guide for Windows is [HERE](win/index-eng.html).
 
 ![](img/logo-mac.png)
-Guide for macOS is [HERE](mac-eng/).
+Guide for macOS is [HERE](mac/index-eng.html).

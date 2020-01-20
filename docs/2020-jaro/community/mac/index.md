@@ -2,10 +2,10 @@ Instalační pokyny pro macOS
 ===========================
 
 Tyto pokyny jsou **výhradně pro macOS**.
-Instalaci pro Windows najdete [zde](../win/).
+Instalaci pro Windows můžete vybrat [o složku výše](../).
 
 Linux **není** podporován. Pokud byste potřebovali instalaci pro Linux,
-byl by to problém, se kterým je nutno se ozvat lektorovi.
+bylo by nutno se dostatečně dopředu ozvat lektorovi.
 
 Pokud už jste instalaci na Java kurz někdy prováděly,
 nejspíš máte v `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects`
@@ -29,4 +29,4 @@ Držte se tohoto video návodu:
 	frameborder="0"
 	allowfullscreen></iframe>
 
-Archív s instalací si můžete stáhnout zde: [Java-Training.zip](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/mac/Java-Training.zip).
+Archív s instalací si můžete stáhnout zde: [Java-Training.zip](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/community/mac/Java-Training.zip).

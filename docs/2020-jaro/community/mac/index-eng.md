@@ -2,7 +2,7 @@ Installation guide for macOS
 ============================
 
 This guide is **only for macOS**.
-If you need Windows, go [here](../win-eng/).
+You can choose Windows guide [here](../).
 
 Linux **is not** supported. If you needed Linux installation guide, please, contact us.
 
@@ -22,4 +22,4 @@ Follow the video:
 	frameborder="0"
 	allowfullscreen></iframe>
 
-Installation archive is here: [Java-Training.zip](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/mac/Java-Training.zip).
+Installation archive is here: [Java-Training.zip](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/community/mac/Java-Training.zip).
