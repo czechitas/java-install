@@ -65,7 +65,7 @@ Detail guide:
 ### The installation procedure itself
 
 1.  Download the installer
-    [Java-Training_setup.exe](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/community/win/Java-Training_setup.exe)
+    [Java-Training_setup.exe](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/ultimate/win/Java-Training_setup.exe)
 
 2.  Find the downloaded file `Java-Training_setup.exe` (probably in
     `Downloads`) and run it.
@@ -94,14 +94,14 @@ Detail guide:
 
 ### <a id="test">Test the installation</a>
 
-1.  Run IntelliJ IDEA. Be patient - the computer will look like it is "doing nothing" after double click, but the splash screen should appear shortly.
+1.  Run IntelliJ IDEA - Ultimate Edition. Be patient - the computer will look like it is "doing nothing" after double click, but the splash screen should appear shortly.
     It is necessary to be connected to the internet at this point.
 
     ![](img/img300.png)
 
     ![](img/img301.png)
 
-27. Open the demo project `C:\Java-Training\Projects\DemoApplication`.
+27. Open the demo project `C:\Java-Training\Projects\DemoWebApplication`.
 
     ![](img/img302.png)
 
@@ -172,7 +172,7 @@ Detail guide:
     - Close IntelliJ IDEA
     - Run `C:\Java-Training\Env\RunCmd.bat`
     - Write to the (black) command line (and confirm each line with `Enter`):
-    - `cd ..\Projects\DemoApplication`
+    - `cd ..\Projects\DemoWebApplication`
     - `mvn clean`
     - `mvn package`
     - Run IntelliJ IDEA again

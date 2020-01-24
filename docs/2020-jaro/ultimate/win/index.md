@@ -21,7 +21,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 Detailní postup:
 -----------------
 
-1.  Nainstalujte si **7-Zip**.
+1.  Nainstalujte si **7-Zip**, pokud ho ještě nemáte.
 
     To platí i v případě, že už máte **WinRAR** nebo **WinZip**.
     Především **WinRAR** nedokáže soubory `.7z` správně rozbalit.
@@ -69,7 +69,7 @@ Detailní postup:
 ### Samotný postup instalace
 
 1.  Stáhněte si instalátor
-    [Java-Training_setup.exe](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/community/win/Java-Training_setup.exe)
+    [Java-Training_setup.exe](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/ultimate/win/Java-Training_setup.exe)
 
 2.  Najděte na počítači uložený soubor `Java-Training_setup.exe` (pravděpodobně je ve složce
     `Downloads`) a spusťte ho.
@@ -98,14 +98,14 @@ Detailní postup:
 
 ### <a id="test">Zkouška nainstalovaných programů</a>
 
-1.  Spusťte IntelliJ IDEA. Buďte trpěliví - je normální, že počítač nějakou dobu *nic nedělá*, než naskočí úvodní obrazovka.
+1.  Spusťte IntelliJ IDEA - Ultimate Edition. Buďte trpěliví - je normální, že počítač nějakou dobu *nic nedělá*, než naskočí úvodní obrazovka.
     Od tohoto bodu je nutné, abyste byli **připojení na internet**.
 
     ![](img/img300.png)
 
 2.  ![](img/img301.png)
 
-3.  Otevřete ukázkový projekt `C:\Java-Training\Projects\DemoApplication`.
+3.  Otevřete ukázkový projekt `C:\Java-Training\Projects\DemoWebApplication`.
 
     ![](img/img302.png)
 
@@ -176,7 +176,7 @@ Detailní postup:
     - zavřete IntelliJ IDEA
     - spusťte soubor C:\Java-Training\Env\RunCmd.bat
     - do objevivší se příkazové řádky postupně napište (a na konci každé řádky stiskněte [Enter]) tyto tři příkazy:
-    - `cd ..\Projects\DemoApplication`
+    - `cd ..\Projects\DemoWebApplication`
     - `mvn clean`
     - `mvn package`
     - znovu zapněte IntelliJ IDEA

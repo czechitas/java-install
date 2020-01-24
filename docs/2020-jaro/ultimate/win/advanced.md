@@ -8,7 +8,7 @@ Doporučujeme tento popis nepoužít a postupovat podle [obrázkového postupu](
 Samotný popis
 -------------
 
-Na kurzu budete potřebovat Javu (OpenJDK) a programátorský editor IntelliJ IDEA (Community Edition).
+Na kurzu budete potřebovat Javu (OpenJDK), Tomcat, MariaDB a programátorský editor IntelliJ IDEA (Ultimate Edition).
 **Nesmíte** si je ale nainstalovat z **oficiální** distribuce.
 Místo toho si stáhněte 1 přednastavený archív, který se jen rozbalí do povinného umístění (`C:\Java-Training\`) a vše bude fungovat.
 Kdybyste si nainstalovali software z oficiální distribuce, neměli byste je správně nakonfigurované pro školení.
@@ -19,7 +19,7 @@ Poznámka: Pokud už máte nainstalované **vlastní** JDK nebo IntelliJ IDEA, n
 Je opravdu nutné, abyste provedli instalaci dle těchto pokynů. Výukové programy z naší instalace nijak neovlivní
 vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly by vám spouštět ukázkové příklady.
 
-1.  Stáhněte si [Java-Training.7z](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/community/win/Java-Training.7z).
+1.  Stáhněte si [Java-Training.7z](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/ultimate/win/Java-Training.7z).
 
 2.  Pokud nemáte nainstalovaný **7-Zip**, nainstalujte si ho.
 
@@ -33,17 +33,17 @@ vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly 
 
     Kontrola, že jste archív rozbalili do správného umístění:
     Po rozbalení musíte mít na disku `C:` tuto složku
-    `C:\Java-Training\Projects\DemoApplication`.
+    `C:\Java-Training\Projects\DemoWebApplication`.
 
-4.  Ze složky `C:\Java-Training\IntelliJ-Community` si přetáhněte
-    zástupce `IntelliJ-Community.lnk`
+4.  Ze složky `C:\Java-Training\IntelliJ-Ultimate` si přetáhněte
+    zástupce `IntelliJ-Ultimate.lnk`
     na plochu a/nebo do nabídky Start (což je složka `C:\Users\VASE_UZIVATELSKE_JMENO\AppData\Roaming\Microsoft\Windows\Start Menu\Programs`).
 
-5.  Spusťte IntelliJ-Community buď pomocí zástupce z minulého kroku
-    nebo spuštěním `C:\Java-Training\IntelliJ-Community\startup.bat`.
+5.  Spusťte IntelliJ-Ultimate buď pomocí zástupce z minulého kroku
+    nebo spuštěním `C:\Java-Training\IntelliJ-Ultimate\startup.bat`.
 
-6.  Otevřete v IntelliJ-Community složku s ukázkovým projektem (Open project)
-    `C:\Java-Training\Projects\DemoApplication`.
+6.  Otevřete v IntelliJ-Ultimate složku s ukázkovým projektem (Open project)
+    `C:\Java-Training\Projects\DemoWebApplication`.
     Je nutné, abyste byli připojeni na internet.
 
 7.  Po otevření se začne indexovat JDK, což bude pár minut trvat. Průběh je zobrazen na dolní liště editoru.
@@ -55,4 +55,6 @@ vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly 
     `C:\Java-Training\`. Řešení - viz bod 17 v obrázkovém popisu instalace.
 
 9.  Vpravo nahoře v editoru zezelená šipka pro spuštění ukázkového projektu. Tak jej spusťte.
-    Projekt musí otevřít okno s nápisem `It works!`.
+    V konzolovém výpisu se objeví adresa lokálního webového serveru, na které je vystavena ukázková webová aplikace.
+
+10. Klikněte na adresu a otevře se vám webový prohližeč se stránkou s nápisem `It works!`.
