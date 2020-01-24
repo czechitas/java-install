@@ -1,5 +1,5 @@
 ---
-redirect_from: "/community/"
+redirect_from: "/ultimate/"
 ---
 Instalační pokyny pro kurz Java 2 - webové aplikace
 ===================================================
