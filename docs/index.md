@@ -9,9 +9,9 @@ Hlavní rozcestník
     Pokyny pro téměř **všechny kurzy**
 
 
-[comment]: <> (*   [Java 2 Webové aplikace](ultimate/))
-[comment]: <> ()
-[comment]: <> (    Pokyny pouze pro pokročilý webový kurz Java 2 Webové aplikace)
+*   [Java 2 - wWebové aplikace](ultimate/)
+
+    Pokyny pouze pro pokročilý webový kurz Java 2 Webové aplikace
 
 
 
@@ -26,6 +26,6 @@ Main navigation panel
     Choose this for **most courses**
 
 
-[comment]: <> (*   [Java 2 Web apps](ultimate/))
-[comment]: <> ()
-[comment]: <> (    This is a specific version for advanced Java 2 Web Apps course)
+*   [Java 2 - Web Applications](ultimate/)
+
+    This is a specific version for advanced Java 2 Web Apps course
