@@ -9,7 +9,7 @@ Hlavní rozcestník
     Pokyny pro téměř **všechny kurzy**
 
 
-*   [Java 2 - wWebové aplikace](ultimate/)
+*   [Java 2 - webové aplikace](ultimate/)
 
     Pokyny pouze pro pokročilý webový kurz Java 2 Webové aplikace
 
