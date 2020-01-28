@@ -1,0 +1,11 @@
+# This file is here to exclude repository files from being automatically packaged by GitHub to a Release tag assets:
+#   Source code (zip)
+#   Source code (tar.gz)
+#
+# We use Release tags to expose download archives (Java-Training.7z and Java-Training.zip)
+# but GitHub would automatically add also repository files as assets next to the archives
+# when the Release tag is created by us.
+# For more info, look here: https://stackoverflow.com/questions/45240336/how-to-use-github-release-api-to-make-a-release-without-source-code#answer-58443948
+
+* export-ignore
+**/* export-ignore
