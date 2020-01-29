@@ -31,7 +31,7 @@ Zkušené uživatelky mohou přeskočit ke krátkému [popisu](#kratky),
 ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 1.  Stáhněte si archív s instalací
-    [Java-Training.7z](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/win/Java-Training.7z)
+    [Java-Training.7z](https://github.com/czechitas/java-install/releases/download/2019-podzim/community/win/Java-Training.7z)
 
 2.  Nainstalujte si **7-Zip**.
 
@@ -236,7 +236,7 @@ Poznámka: Pokud už máte nainstalované **vlastní** JDK nebo IntelliJ IDEA, n
 Je opravdu nutné, abyste provedli instalaci dle těchto pokynů. Výukové programy z naší instalace nijak neovlivní
 vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly by vám spouštět ukázkové příklady.
 
-1.  Stáhněte si [Java-Training.7z](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/win/Java-Training.7z).
+1.  Stáhněte si [Java-Training.7z](https://github.com/czechitas/java-install/releases/download/2019-podzim/community/win/Java-Training.7z).
 
 2.  Pokud nemáte nainstalovaný **7-Zip**, nainstalujte si ho.
 

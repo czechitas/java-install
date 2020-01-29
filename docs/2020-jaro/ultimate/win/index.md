@@ -69,7 +69,7 @@ Detailní postup:
 ### Samotný postup instalace
 
 1.  Stáhněte si instalátor
-    [Java-Training_setup.exe](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/ultimate/win/Java-Training_setup.exe)
+    [Java-Training_setup.exe](https://github.com/czechitas/java-install/releases/download/2020-jaro/ultimate/win/Java-Training_setup.exe)
 
 2.  Najděte na počítači uložený soubor `Java-Training_setup.exe` (pravděpodobně je ve složce
     `Downloads`) a spusťte ho.

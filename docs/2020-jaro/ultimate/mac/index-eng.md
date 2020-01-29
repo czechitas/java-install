@@ -22,4 +22,4 @@ Follow the video:
 	frameborder="0"
 	allowfullscreen></iframe>
 
-Installation archive is here: [Java-Training.zip](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/ultimate/mac/Java-Training.zip).
+Installation archive is here: [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2020-jaro/ultimate/mac/Java-Training.zip).

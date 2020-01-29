@@ -65,7 +65,7 @@ Detail guide:
 ### The installation procedure itself
 
 1.  Download the installer
-    [Java-Training_setup.exe](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/community/win/Java-Training_setup.exe)
+    [Java-Training_setup.exe](https://github.com/czechitas/java-install/releases/download/2020-jaro/community/win/Java-Training_setup.exe)
 
 2.  Find the downloaded file `Java-Training_setup.exe` (probably in
     `Downloads`) and run it.

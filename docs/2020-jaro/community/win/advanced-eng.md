@@ -17,7 +17,7 @@ Note: If you already have our own JDK or other included software installed on yo
 it is not a problem but it will not be used for the training course. It is absolutely necessary to use the piece of software from our installation package
 as it is all preconfigured. Our examples would not work without the special configuration.
 
-1.  Download [Java-Training.7z](https://github.com/czechitas/java-install-dist/releases/download/2019-podzim/community/win/Java-Training.7z).
+1.  Download [Java-Training.7z](https://github.com/czechitas/java-install/releases/download/2019-podzim/community/win/Java-Training.7z).
 
 2.  If you do not have **7-Zip**, download and install it.
 

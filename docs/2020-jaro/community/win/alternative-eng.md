@@ -5,7 +5,7 @@ V případě, že by vám instalátor `Java-Training_setup.exe` nešel spustit,
 můžete použít manuální instalaci rozbalením archívu s programy.
 
 1.  Download the installation archive
-    [Java-Training.7z](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/community/win/Java-Training.7z)
+    [Java-Training.7z](https://github.com/czechitas/java-install/releases/download/2020-jaro/community/win/Java-Training.7z)
 
 2.  Find the downloaded `Java-Training.7z` (probably in
     `Downloads`), open using right click and choose 7-Zip -> Open archive

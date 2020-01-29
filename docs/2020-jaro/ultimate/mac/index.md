@@ -29,4 +29,4 @@ Držte se tohoto video návodu:
 	frameborder="0"
 	allowfullscreen></iframe>
 
-Archív s instalací si můžete stáhnout zde: [Java-Training.zip](https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/ultimate/mac/Java-Training.zip).
+Archív s instalací si můžete stáhnout zde: [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2020-jaro/ultimate/mac/Java-Training.zip).
