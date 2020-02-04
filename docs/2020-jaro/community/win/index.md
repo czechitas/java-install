@@ -103,11 +103,13 @@ Detailní postup:
 
     ![](img/img300.png)
 
-2.  ![](img/img301.png)
+2.  IntelliJ IDEA se spustí.
+
+    ![](img/img303.png)
 
 3.  Otevřete ukázkový projekt `C:\Java-Training\Projects\DemoApplication`.
 
-    ![](img/img302.png)
+    ![](img/img304.png)
 
 4.  Pozor, v otevíracím dialogu rozklikávejte levé šipečky
     **pouze jedním kliknutím**
@@ -116,59 +118,60 @@ Detailní postup:
     IntelliJ IDEA to čas od času může špatně pochopit a pokusit se složku,
     ve které není javový projekt, importovat.
 
-    ![](img/img303.png)
+    ![](img/img305.png)
 
-5.  ![](img/img304.png)
+5.  ![](img/img306.png)
 
 6.  Počkejte, než IntelliJ IDEA po prvním spuštění naindexuje Javu.
     Může to trvat několik minut.
 
-    ![](img/img305.png)
+    ![](img/img307.png)
 
 7.  V otevřeném projektu byste měli vidět soubor Main.java. Pokud ne, rozklikněte složky v projektu a dvojklikem na jméno souboru ho otevřete v editoru.
 
-    ![](img/img306.png)
-
-8.  Správně nastavená IntelliJ IDEA obarvuje zdrojový text v Main.java
-    do modrofialova stejně, jak je vidět na obrázku:
-
-    ![](img/img307.png)
-
-9.  Pokud máte v tenhle moment problém s internetovým připojením, může se přihodit, že se nestáhnou všechna potřebná data. V takovém případě budete mít části textu červené - jako na obrázku níže.
-
     ![](img/img308.png)
 
-10. Náprava: otevřete záložku "Maven" na pravé straně obrazovky.
+8.  Správně nastavená IntelliJ IDEA obarvuje zdrojový text v Main.java
+    do modrofialova stejně, jak je vidět na obrázku.
+    Pokud to tak je, můžete přeskočit na krok 19.
 
     ![](img/img309.png)
 
-11. Stiskněte tlačítko se šipkami "Reimport All Maven Projects" a nechte počítač pracovat.
+9.  Pokud naopak máte v tenhle moment problém s internetovým připojením, může se přihodit, že se nestáhnou všechna potřebná data. V takovém případě budete mít části textu červené - jako na obrázku níže.
 
     ![](img/img310.png)
 
-12. Nepomohlo a pořád jsou některé části textu červené? Rozklikněte v záložce Mavenu složku "Lifecycle", označte "clean" a spusťte akci zelenou šipkou. POZOR, nespleťte si tuhle šipku se stejně vyhlížející šipkou o něco výše vedle "Run Main"!
+10. Náprava: otevřete záložku "Maven" na pravé straně obrazovky.
 
     ![](img/img311.png)
 
-13. Pokud celý proces úspěšně proběhl, vypíše se vám dole v okně "Process finished with exit code 0"
+11. Stiskněte tlačítko se šipkami "Reimport All Maven Projects" a nechte počítač pracovat.
 
     ![](img/img312.png)
 
-14. To samé, co s "clean, udělejte ještě pro "package".
+12. Nepomohlo a pořád jsou některé části textu červené? Rozklikněte v záložce Mavenu složku "Lifecycle", označte "clean" a spusťte akci zelenou šipkou. POZOR, nespleťte si tuhle šipku se stejně vyhlížející šipkou o něco výše vedle "Run Main"!
 
     ![](img/img313.png)
 
-15. Úspěšně skončeno:
+13. Pokud celý proces úspěšně proběhl, vypíše se vám dole v okně "Process finished with exit code 0"
 
     ![](img/img314.png)
 
-16. Znovu zkuste "Reimport All Maven Projects".
+14. To samé, co s "clean, udělejte ještě pro "package".
 
     ![](img/img315.png)
 
-17. Žádoucí výsledek: SwingExceptionHandler už není červeně.
+15. Úspěšně skončeno:
 
     ![](img/img316.png)
+
+16. Znovu zkuste "Reimport All Maven Projects".
+
+    ![](img/img317.png)
+
+17. Žádoucí výsledek: SwingExceptionHandler už není červeně.
+
+    ![](img/img318.png)
 
 18. Žádoucí výsledek je ukázán v kroku č. 17. Máte-li modrý a fialový text dle obrázku, můžete přejít k dalšímu kroku.
 
@@ -184,15 +187,18 @@ Detailní postup:
 
 19. Spusťte aplikaci klikem na zelenou šipku vpravo nahoře.
 
-    ![](img/img317.png)
+    ![](img/img319.png)
 
 20. Pokud všechno funguje správně:
 
-    ![](img/img318.png)
+    ![](img/img321.png)
+
 
 
 ### Úklid dočasných souborů
+
 Po instalaci je nepovinně možno vymazat dočasné soubory v Downloads (Java-Training a instalátor 7-Zipu), aby nezabíraly místo.
+
 
 
 ### A to je vše. Tešíme se na vás na akci.
