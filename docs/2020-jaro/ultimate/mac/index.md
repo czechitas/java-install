@@ -22,11 +22,21 @@ Updatované verze by ztratily konfiguraci a materiály z kurzu by nešly spustit
 
 <a id="detailni">Detailní postup:</a>
 -------------------------------------
-Držte se tohoto video návodu:
 
-<iframe width="560" height="315"
-	src="https://www.youtube.com/embed/PmgJeo8iiK0"
-	frameborder="0"
-	allowfullscreen></iframe>
+1. Archív s instalací si stáhněte zde: [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2020-jaro/community/mac/Java-Training.zip)
 
-Archív s instalací si můžete stáhnout zde: [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2020-jaro/ultimate/mac/Java-Training.zip).
+2. Držte se tohoto video návodu:
+
+    <iframe width="683" height="384"
+    	src="https://www.youtube.com/embed/1mUngV4I9y4"
+    	frameborder="0"
+    	allowfullscreen></iframe>
+
+
+3. Po instalaci si můžete uklidit složku Downloads:
+
+    <iframe width="683" height="384"
+    	src="https://www.youtube.com/embed/EeSZ0mV76ys"
+    	frameborder="0"
+    	allowfullscreen></iframe>
+
