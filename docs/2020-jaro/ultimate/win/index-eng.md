@@ -108,13 +108,9 @@ Detail guide:
 
     ![](img/img300.png)
 
-2.  Insert your Offline activation code from your license, which you got for free on the JetBrains e-shop.
+2.  Make sure you are **connected to the internet**.
 
-    ![](img/img301.png)
-
-    ![](img/img302.png)
-
-3.  If you still haven't received a discount coupon from us, you can choose Evaluate for free.
+3.  Choose Evaluate for free.
 
 4.  IntelliJ IDEA will start.
 

@@ -108,17 +108,12 @@ Detailní postup:
 ### <a id="test">Zkouška nainstalovaných programů</a>
 
 1.  Spusťte IntelliJ IDEA - Ultimate Edition. Buďte trpěliví - je normální, že počítač nějakou dobu *nic nedělá*, než naskočí úvodní obrazovka.
-    Od tohoto bodu je nutné, abyste byli **připojení na internet**.
 
     ![](img/img300.png)
 
-2.  Vložte Offline activation code svojí licence, kterou jste si pořídili zdarma na e-shopu JetBrains.
+2.  Dejte pozor, abyste byli **připojení na internet**.
 
-    ![](img/img301.png)
-
-    ![](img/img302.png)
-
-3.  Pokud byste zatím od nás nedostali slevový kupón, lze zvolit Evaluate for free.
+3.  Zvolte Evaluate for free.
 
 4.  IntelliJ IDEA se spustí.
 
