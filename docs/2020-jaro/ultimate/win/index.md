@@ -66,6 +66,10 @@ Detailní postup:
 
 
 
+<br/><br/><br/><br/><br/>
+
+
+
 ### Samotný postup instalace
 
 1.  Stáhněte si instalátor
@@ -82,7 +86,8 @@ Detailní postup:
 
 4.  ![](img/img102.png)
 
-5.  Pokud by nešlo výjimku pro instalátor schválit, přejďete na ruční [rozbalení archívu](alternative.html). Jinak pokračujte zde.
+5.  Pokud by nešlo výjimku pro instalátor schválit, nebo by vám antivirus nedovolil instalátor spustit,
+    **přejďete na ruční [rozbalení archívu](alternative.html)**. Jinak pokračujte zde.
 
 6.  ![](img/img103.png)
 
@@ -93,6 +98,10 @@ Detailní postup:
 9.  ![](img/img106.png)
 
 10. Instalace je hotová.
+
+
+
+<br/><br/><br/><br/><br/>
 
 
 

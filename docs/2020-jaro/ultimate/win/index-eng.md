@@ -62,6 +62,10 @@ Detail guide:
 
 
 
+<br/><br/><br/><br/><br/>
+
+
+
 ### The installation procedure itself
 
 1.  Download the installer
@@ -78,7 +82,8 @@ Detail guide:
 
 4.  ![](img/img102.png)
 
-5.  If you were unable to run the installer anyway, switch to the manual [extraction of an archive](alternative-eng.html). Otherwise, follow on.
+5.  If you were unable to run the installer anyway or your antivirus does not allow to run it,
+    **switch to the manual [extraction of an archive](alternative-eng.html)**. Otherwise, follow on.
 
 6.  ![](img/img103.png)
 
@@ -89,6 +94,10 @@ Detail guide:
 9.  ![](img/img106.png)
 
 10. Installation is finished.
+
+
+
+<br/><br/><br/><br/><br/>
 
 
 
