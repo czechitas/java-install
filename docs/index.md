@@ -1,31 +1,25 @@
-Instalační pokyny pro kurzy Java
-================================
-
-Hlavní rozcestník
------------------
+Instalační instrukce pro Java kurzy
+===================================
 
 *   [Základní kurzy Java](community/)
 
     Pokyny pro téměř **všechny kurzy**
 
 
-*   [Java 2 - webové aplikace](ultimate/)
-
-    Pokyny pouze pro pokročilý webový kurz Java 2 Webové aplikace
-
-
-
-Installation Guide for Java Courses
-===================================
-
-Main navigation panel
----------------------
-
 *   [Basic Java courses](community/)
 
     Choose this for **most courses**
 
+<br/>
+<br/>
+<br/>
 
-*   [Java 2 - Web Applications](ultimate/)
+### Java 2 - webové aplikace
 
-    This is a specific version for advanced Java 2 Web Apps course
+*   [Java 2 - webové aplikace - česky](ultimate/)
+
+    Speciální pokyny jen pro pokročilý webový kurz **Java 2 - Webové aplikace**
+
+*   [Java 2 - Web Apps - English](ultimate/)
+
+    Special instructions only for advanced course **Java 2 - Web Applications**

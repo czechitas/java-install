@@ -1,4 +1,4 @@
-# This file is here to exclude repository files from being automatically packaged by GitHub to a Release tag assets:
+# The `export-ignore` setting is here to exclude repository files from being automatically packaged by GitHub to a Release tag assets:
 #   Source code (zip)
 #   Source code (tar.gz)
 #
@@ -7,5 +7,6 @@
 # when the Release tag is created by us.
 # For more info, look here: https://stackoverflow.com/questions/45240336/how-to-use-github-release-api-to-make-a-release-without-source-code#answer-58443948
 
-* export-ignore
-**/* export-ignore
+*           export-ignore
+**/*        export-ignore
+
