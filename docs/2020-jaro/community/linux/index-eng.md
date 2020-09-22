@@ -1,4 +1,4 @@
-Installation guide for macOS
+Installation guide for Linux
 ============================
 
 This guide is **only for Linux**.
@@ -14,14 +14,13 @@ All other files and subfolders of `/home/YOUR_USERNAME/Java-Training` will eithe
 <a id="detailni">Detail guide:</a>
 -------------------------------------
 
-1. Download the installation archive: [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2020-jaro/community/linux/Java-Training.tar.gz)
+1. Download the installation archive: [Java-Training.tar.gz](https://github.com/czechitas/java-install/releases/download/2020-jaro/community/linux/Java-Training.tar.gz)
 
 2. Follow the video guide:
 
-    <iframe width="768" height="460"
-    	src="https://www.youtube.com/embed/EC1er92kzec"
-    	frameborder="0"
-    	allowfullscreen></iframe>
+    <a href="https://www.youtube.com/watch?v=EC1er92kzec">
+        <img src="img/video-screenshot.jpg"/>
+    </a>
 
 
 3. You can optionally clean up the Downloads folder.

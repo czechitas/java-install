@@ -18,16 +18,13 @@ All other files and subfolders of `/Users/YOUR_USERNAME/Java-Training` will eith
 
 2. Follow the video guide:
 
-    <iframe width="768" height="576"
-    	src="https://www.youtube.com/embed/ylUAuXl1ynw"
-    	frameborder="0"
-    	allowfullscreen></iframe>
+    <a href="https://www.youtube.com/watch?v=ylUAuXl1ynw">
+        <img src="img/video-screenshot.jpg"/>
+    </a>
 
 
 3. You can optionally clean up the Downloads folder:
 
-    <iframe width="768" height="576"
-    	src="https://www.youtube.com/embed/MP_UK767uc8"
-    	frameborder="0"
-    	allowfullscreen></iframe>
-
+    <a href="https://www.youtube.com/watch?v=MP_UK767uc8">
+        <img src="img/video-cleanup-screenshot.jpg"/>
+    </a>

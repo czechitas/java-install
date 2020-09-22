@@ -18,14 +18,13 @@ Updatované verze by ztratily konfiguraci a materiály z kurzu by nešly spustit
 <a id="detailni">Detailní postup:</a>
 -------------------------------------
 
-1. Archív s instalací si stáhněte zde: [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2020-jaro/community/linux/Java-Training.tar.gz)
+1. Archív s instalací si stáhněte zde: [Java-Training.tar.gz](https://github.com/czechitas/java-install/releases/download/2020-jaro/community/linux/Java-Training.tar.gz)
 
 2. Držte se tohoto video návodu:
 
-    <iframe width="768" height="460"
-    	src="https://www.youtube.com/embed/EC1er92kzec"
-    	frameborder="0"
-    	allowfullscreen></iframe>
+    <a href="https://www.youtube.com/watch?v=EC1er92kzec">
+        <img src="img/video-screenshot.jpg"/>
+    </a>
 
 
 3. Po instalaci si můžete uklidit složku Downloads.
