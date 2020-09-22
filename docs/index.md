@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Instalační instrukce pro Java kurzy
 ===================================
 

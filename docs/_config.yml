@@ -1,5 +1,5 @@
 title: JavaInstall-Web
-markdown: kramdown
+markdown: GFM
 
 plugins:
   - jekyll-redirect-from

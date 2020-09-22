@@ -13,6 +13,10 @@ Pokyny pro uživatele Windows jsou [ZDE](win/).
 Pokyny pro uživatele macOS jsou [ZDE](mac/).
 
 
+![](img/logo-linux.png)
+Pokyny pro uživatele Linuxu jsou [ZDE](linux/).
+
+
 Installation guide for Java courses
 ===================================
 
@@ -23,3 +27,6 @@ Guide for Windows is [HERE](win/index-eng.html).
 
 ![](img/logo-mac.png)
 Guide for macOS is [HERE](mac/index-eng.html).
+
+![](img/logo-linux.png)
+Guide for Linux is [HERE](linux/index-eng.html).

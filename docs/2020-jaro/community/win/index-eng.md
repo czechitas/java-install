@@ -2,9 +2,7 @@ Installation Guide for Windows
 ==============================
 
 This guide is **only for Windows**.
-You can choose macOS guide [here](../).
-
-Linux **is not** supported. If you needed Linux installation guide, please, contact us.
+You can choose macOS or Linux guide [here](../).
 
 Follow the instructions even if you already have some of the software installed
 (including `C:\Java-Training`). Existing software will just update and any previous projects will not be lost. The `C:\Java-Training\Projects` folder is not erased.

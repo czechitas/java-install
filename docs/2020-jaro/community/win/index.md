@@ -2,10 +2,7 @@ Instalační pokyny pro Windows
 =============================
 
 Tyto pokyny jsou **výhradně pro Windows**.
-Instalaci pro macOS můžete vybrat [o složku výše](../).
-
-Linux **není** podporován. Pokud byste potřebovali instalaci pro Linux,
-bylo by nutno se dostatečně dopředu ozvat lektorovi.
+Instalaci pro macOS nebo Linux můžete vybrat [o složku výše](../).
 
 Tyto instrukce následujte i pokud už máte nějaké programy v
 `C:\Java-Training` z minula. Žádný strach, původní programy se jen aktualizují a vaše vlastní projekty zůstanou zachovány.

@@ -2,10 +2,7 @@ Instalační pokyny pro macOS
 ===========================
 
 Tyto pokyny jsou **výhradně pro macOS**.
-Instalaci pro Windows můžete vybrat [o složku výše](../).
-
-Linux **není** podporován. Pokud byste potřebovali instalaci pro Linux,
-bylo by nutno se dostatečně dopředu ozvat lektorovi.
+Instalaci pro Windows nebo Linux můžete vybrat [o složku výše](../).
 
 Pokud už jste instalaci na Java kurz někdy prováděly,
 nejspíš máte v `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects`

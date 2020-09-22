@@ -2,9 +2,7 @@ Installation guide for macOS
 ============================
 
 This guide is **only for macOS**.
-You can choose Windows guide [here](../).
-
-Linux **is not** supported. If you needed Linux installation guide, please, contact us.
+You can choose Windows or Linux guide [here](../).
 
 Follow the instructions even if you already have some of the software installed
 (including `/Users/YOUR_USERNAME/Java-Training`). You will not lose any previous `Projects` because this folder is not being erased.
