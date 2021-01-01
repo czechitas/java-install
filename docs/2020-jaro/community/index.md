@@ -1,6 +1,3 @@
----
-redirect_from: "/community/"
----
 Instalační pokyny pro kurzy Java
 ================================
 
