@@ -19,7 +19,7 @@ Poznámka: Pokud už máte nainstalované **vlastní** JDK nebo IntelliJ IDEA, n
 Je opravdu nutné, abyste provedli instalaci dle těchto pokynů. Výukové programy z naší instalace nijak neovlivní
 vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly by vám spouštět ukázkové příklady.
 
-1.  Stáhněte si [Java-Training.7z](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training.7z).
+1.  Stáhněte si [Java-Training_setup.exe](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training_setup.exe).
 
 2.  Pokud nemáte nainstalovaný **7-Zip**, nainstalujte si ho.
 
@@ -28,7 +28,11 @@ vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly 
     a používat výhradně **7-Zip**.
     Je zdarma, open-source a funguje výborně.
 
-3.  Spusťte 7zFM.exe (7-Zip File Manager) a otevřete v něm `Java-Training.7z`.
+2.  Spustťe **7-Zip File Manager** (`7zFM.exe`).
+
+    Klikněte na Tools -> Options -> System -> Associate 7-Zip with -> Zvolte všechny typy souborů (+)
+
+3.  V 7-Zip File Manageru otevřete `Java-Training_setup.exe`.
     Rozbalte jej do `C:\Java-Training` (Extract to `C:\Java-Training`).
 
     Kontrola, že jste archív rozbalili do správného umístění:
@@ -40,7 +44,7 @@ vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly 
     na plochu a/nebo do nabídky Start (což je složka `C:\Users\VASE_UZIVATELSKE_JMENO\AppData\Roaming\Microsoft\Windows\Start Menu\Programs`).
 
 5.  Spusťte IntelliJ-Community buď pomocí zástupce z minulého kroku
-    nebo spuštěním `C:\Java-Training\IntelliJ-Community\startup.bat`.
+    nebo spuštěním `C:\Java-Training\IntelliJ-Community\bin\idea64.exe`.
 
 6.  Otevřete v IntelliJ-Community složku s ukázkovým projektem (Open project)
     `C:\Java-Training\Projects\DemoApplication`.
@@ -52,7 +56,7 @@ vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly 
 
     Pokud by zůstal převážně šedý, byl by to problém.
     Nejspíš byste totiž neměli archív vybalen ve správné složce
-    `C:\Java-Training\`. Řešení - viz bod 17 v obrázkovém popisu instalace.
+    `C:\Java-Training\`. Řešení viz troubleshooting ve video popisu instalace.
 
 9.  Vpravo nahoře v editoru zezelená šipka pro spuštění ukázkového projektu. Tak jej spusťte.
     Projekt musí otevřít okno s nápisem `It works!`.

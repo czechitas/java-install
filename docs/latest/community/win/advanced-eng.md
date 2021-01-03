@@ -17,14 +17,17 @@ Note: If you already have our own JDK or other included software installed on yo
 it is not a problem but it will not be used for the training course. It is absolutely necessary to use the piece of software from our installation package
 as it is all preconfigured. Our examples would not work without the special configuration.
 
-1.  Download [Java-Training.7z](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training_setup.exe).
+1.  Download [Java-Training_setup.exe](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training_setup.exe).
 
 2.  If you do not have **7-Zip**, download and install it.
 
     Warning! Do not use **WinRAR** or **WinZip**, because they cannot extract `.7z` correctly.
     In general we recommend to uninstall **WinRAR** and **WinZip** completely as you must pay for their license.
     We consider it pointless when there is the free and open-source 7-Zip.
-3.  Run 7zFM.exe (7-Zip File Manager) and open `Java-Training.7z` in it.
+
+2.  Run **7-Zip File Manager** (`7zFM.exe`)
+
+3.  In **7-Zip File Manager** open `Java-Training_setup.exe`.
     Extract the archive to `C:\Java-Training`.
 
     Check that you extracted it correctly:
@@ -37,7 +40,7 @@ as it is all preconfigured. Our examples would not work without the special conf
     (`C:\Users\YOUR_USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs`)
 
 5.  Run `IntelliJ-Community` using the shortcut from previous step
-    or run `C:\Java-Training\IntelliJ-Community\startup.bat`.
+    or run `C:\Java-Training\IntelliJ-Community\bin\idea64.exe`.
 
 6.  Open the demo project selecting the folder
     `C:\Java-Training\Projects\DemoApplication`.
@@ -51,8 +54,7 @@ as it is all preconfigured. Our examples would not work without the special conf
 
     If it stayed mainly black-grey, you wouldn't have it extracted to the correct folder.
     It must be in `C:\Java-Training`. In such a case, close everything, move it to the correct location and run IntelliJ IDEA again.
-    If it was red, follow on to the troubleshooting section of the detailed guide
-    (point 33 in the detailed installation guide).
+    If it was red, follow on to the troubleshooting section of the detailed guide.
 
 7.  If everyhing is successful, you can run the project using the green arrow on the right top bar.
     Project will open a window with `It works!` label.
