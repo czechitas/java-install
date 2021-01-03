@@ -71,7 +71,7 @@ Postup:
 
       Řešení: Můžete mít v systému nastaveno, že má Maven využívat vaši firemní repository knihoven, přístupnou přes VPN. Potom je potřeba krok s Mavenem (clean a package) provést s připojením na VPN. Raděj zůstaňte připojeni na VPN po celou dobu i při programování.
 
-    - IntelliJ IDEA je zmatená
+    - IntelliJ IDEA zobrazuje špatně barvy zdrojového textu
 
       Řešení: Pokud přetrvává červený text i po opakovaném spuštění mavenových úkolů (clean a package), můžete zkusit ještě následující silnější kalibr:
         - Zavřete IntelliJ IDEA

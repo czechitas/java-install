@@ -14,7 +14,7 @@ All other files and subfolders of `/home/YOUR_USERNAME/Java-Training` will eithe
 <a id="detailni">Detail guide:</a>
 -------------------------------------
 
-1. Download the installation archive: [Java-Training.tar.gz](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/linux/Java-Training.zip)
+1. Download the installation archive: [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/linux/Java-Training.zip)
 
 2. Follow the video guide:
 
