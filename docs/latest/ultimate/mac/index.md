@@ -27,16 +27,14 @@ Updatované verze by ztratily konfiguraci a materiály z kurzu by nešly spustit
 
 2. Držte se tohoto video návodu:
 
-    <iframe width="683" height="384"
-    	src="https://www.youtube.com/embed/1mUngV4I9y4"
-    	frameborder="0"
-    	allowfullscreen></iframe>
+    <a href="https://www.youtube.com/watch?v=1mUngV4I9y4">
+        <img src="img/video-screenshot.png"/>
+    </a>
 
 
 3. Po instalaci si můžete uklidit složku Downloads:
 
-    <iframe width="683" height="384"
-    	src="https://www.youtube.com/embed/EeSZ0mV76ys"
-    	frameborder="0"
-    	allowfullscreen></iframe>
+    <a href="https://www.youtube.com/watch?v=EeSZ0mV76ys">
+        <img src="img/video-screenshot.png"/>
+    </a>
 
