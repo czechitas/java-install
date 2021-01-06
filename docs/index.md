@@ -16,6 +16,9 @@ Instalační instrukce pro Java kurzy
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 ### Java 2 - webové aplikace
 

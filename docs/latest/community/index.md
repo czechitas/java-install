@@ -1,31 +1,43 @@
----
-redirect_from: "/community/"
----
 Instalační pokyny pro kurzy Java
 ================================
 
-(veškerý software je zdarma)
-
 ![](img/logo-windows.png)
-Pokyny pro uživatele Windows jsou [ZDE](win/).
+[Pokyny pro Windows (Intel x86-64)](win/)
 
 ![](img/logo-mac.png)
-Pokyny pro uživatele macOS jsou [ZDE](mac/).
+[Pokyny pro skoro všechny verze macOS (Intel x86-64)](mac/)
+
+![](img/logo-mac.png)
+[Pokyny pouze pro nejnovější macOS M1 Apple silicon (ARM64)](mac-arm/)
 
 ![](img/logo-linux.png)
-Pokyny pro uživatele Linuxu jsou [ZDE](linux/).
+[Pokyny pro Linuxu  (Intel x86-64)](linux/)
+
+<br/>
+
+(veškerý software je zdarma)
+
+
+
+<br/><br/><br/><br/>
+
 
 
 Installation guide for Java courses
 ===================================
 
-(all software is free of charge)
-
 ![](img/logo-windows.png)
-Guide for Windows is [HERE](win/index-eng.html).
+[Guide for Windows (Intel x86-64)](win/index-eng.html)
 
 ![](img/logo-mac.png)
-Guide for macOS is [HERE](mac/index-eng.html).
+[Guide for almost all versions of macOS (Intel x86-64)](mac/index-eng.html)
+
+![](img/logo-mac.png)
+[Guide only for the latest macOS M1 Apple silicon (ARM64)](mac/index-eng.html)
 
 ![](img/logo-linux.png)
-Guide for Linux is [HERE](linux/index-eng.html).
+[Guide for Linux (Intel x86-64)](linux/index-eng.html)
+
+<br/>
+
+(all software is free of charge)
