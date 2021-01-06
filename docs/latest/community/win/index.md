@@ -43,7 +43,7 @@ Instalace
 
 ### Úklid dočasných souborů
 
-Po instalaci je nepovinně možno vymazat dočasné soubory v Downloads (Java-Training_setup.exe), aby nezabíraly místo.
+Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java-Training_setup.exe`), aby nezabíraly místo.
 
 
 
@@ -76,7 +76,7 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v Downloads (Java-Tr
 
     Důvod: Nedodrželi jste správný postup práce s otevíracím dialogem a vybrali omylem špatnou složku.
 
-    Řešení: V IntelliJ IDEA zvolte v menu File -> Open... a vyberte správnou složku.
+    Řešení: V **IntelliJ IDEA** zvolte v menu **File** -> **Open...** a vyberte správnou složku.
 
 
 3.  Problém: Maven build selhal nebo zdrojový text programu zůstal červený.
@@ -152,7 +152,7 @@ Místo toho se použije přednastavený archív, který se jen rozbalí do povin
 Kdybyste si nainstalovali software z oficiální distribuce, neměli byste ho správně nakonfigurovaný pro školení.
 
 Poznámka: Nic se doopravdy neinstaluje, všechno se jen rozbalí ze zipu (který je součástí `Java-Training_setup.exe`).
-Konfigurace softwaru je také ve složce `C:\Java-Training` a nikoliv v uživatelském profilu.
+Konfigurace softwaru je také ve složce `C:\Java-Training\User-Config` a nikoliv v uživatelském profilu.
 Jde tedy vlastně o *portable distribuci*.
 
 Poznámka: Pokud už máte nainstalované *vlastní* **JDK** nebo **IntelliJ IDEA**, nevadí to, ale na kurzu je používat *nebudeme*.
