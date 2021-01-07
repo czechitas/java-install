@@ -1,3 +1,3 @@
 ---
-redirect_to: "/latest/ultimate/"
+redirect_to: "/ultimate/"
 ---

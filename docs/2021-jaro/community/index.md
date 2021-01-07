@@ -1,3 +1,3 @@
 ---
-redirect_to: "/latest/community/"
+redirect_to: "/community/"
 ---
