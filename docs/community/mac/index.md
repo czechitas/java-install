@@ -129,7 +129,7 @@ Místo toho se použije přednastavený archív, který se jen rozbalí do povin
 Kdybyste si nainstalovali software z oficiální distribuce, neměli byste ho správně nakonfigurovaný pro školení.
 
 Poznámka: Nic se doopravdy neinstaluje, všechno se jen rozbalí ze zipu (`Java-Training.zip`).
-Konfigurace softwaru je převedena do složky `/Users/YOUR_USERNAME/Java-Training/User-Config` a nikoliv v uživatelském profilu.
+Konfigurace softwaru je přesměrována do složky `/Users/YOUR_USERNAME/Java-Training/User-Config` a nikoliv v uživatelském profilu.
 Jde tedy vlastně o *portable distribuci*.
 
 Poznámka: Pokud už máte nainstalované *vlastní* **JDK** nebo **IntelliJ IDEA**, nevadí to, ale na kurzu je používat *nebudeme*.

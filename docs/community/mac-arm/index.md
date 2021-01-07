@@ -83,8 +83,8 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java
             - `cd $HOME/Java-Training/Projects/DemoApplication`
             - `mvn clean package exec:java`
         - Tentokrát by se už mělo zobrazit okno `It works`.
-        - Znovu zapněte **IntelliJ IDEA**
-        - Stiskněte tlačítko pro reimport projektu.
+        - Znovu zapněte **IntelliJ IDEA**.
+        - Stiskněte tlačítko pro Reimport projektu v záložce Mavenu.
 
         Více ve video návodu:
 
@@ -111,7 +111,7 @@ Bude fajn se zbavit i aplikace **IntelliJ IDEA** v `/Users/YOUR_USERNAME/Applica
 
 Téměř hotovo.
 
-**Maven** si vytváří cache stažených knihoven ve složce `/Users/YOUR_USERNAME/.m2`, takže tu také smažte. Složka je skrytá. Ve Finderu se skryté složky zobrazí pomocí `Shift+Cmd+.`.
+**Maven** si vytváří cache stažených knihoven ve složce `/Users/YOUR_USERNAME/.m2/repository`, takže tu také smažte. Složka je skrytá. Ve Finderu se skryté složky zobrazí pomocí `Shift+Cmd+.`.
 A to už je všechno.
 
 
@@ -129,9 +129,9 @@ Místo toho se použije přednastavený archív, který se jen rozbalí do povin
 Kdybyste si nainstalovali software z oficiální distribuce, neměli byste ho správně nakonfigurovaný pro školení.
 
 Poznámka: Nic se doopravdy neinstaluje, všechno se jen rozbalí ze zipu (`Java-Training.zip`).
-Konfigurace softwaru je také ve složce `/Users/YOUR_USERNAME/Java-Training/User-Config` a nikoliv v uživatelském profilu.
+Konfigurace softwaru je přesměrována do složky `/Users/YOUR_USERNAME/Java-Training/User-Config` a nikoliv v uživatelském profilu.
 Jde tedy vlastně o *portable distribuci*.
 
 Poznámka: Pokud už máte nainstalované *vlastní* **JDK** nebo **IntelliJ IDEA**, nevadí to, ale na kurzu je používat *nebudeme*.
-Je opravdu nutné, abyste provedli instalaci dle těchto pokynů. Výukové programy z naší instalace nijak neovlivní
-vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly by vám spouštět ukázkové příklady.
+Výukový software z naší instalace nijak neovlivní vaše už nainstalované aplikace.
+Pokud byste ale instalaci neprovedli, nešly by vám spouštět ukázkové příklady.
