@@ -5,7 +5,8 @@ Tyto pokyny jsou **výhradně pro Windows**.
 Instalaci pro macOS nebo Linux můžete vybrat [o složku výše](../).
 
 Instrukce následujte i pokud už máte nějaké programy v
-`C:\Java-Training` z minula. Žádný strach, původní programy se jen aktualizují a vaše vlastní projekty zůstanou zachovány.
+`C:\Java-Training` z minula. Žádný strach, původní programy se jen aktualizují
+a vaše vlastní projekty zůstanou zachovány.
 Projekty máte v `C:\Java-Training\Projects` a tato složka se nemaže.
 Ostatní programy v `C:\Java-Training` buď zůstanou nedotčeny
 nebo budou přepsány novější verzí programů, což je v pořádku.
@@ -53,12 +54,15 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java
 
 ### Troubleshooting
 
-1.  Problém: Instalátor `Java-Training_setup.exe` nejde spustit, protože není k dispozici volba `Run anyway`.
+1.  Problém: Instalátor `Java-Training_setup.exe` nejde spustit, protože není k dispozici volba `Run anyway` nebo ho antivirus označil za potenciálně nebezpečný.
 
-    Důvod: Tato situace může nastat, pokud máte ve Windows příliš restriktivní bezpečnostní nastavení.
-    Například u pracovního počítače.
+    Důvod: Tato situace může nastat, pokud máte ve Windows příliš restriktivní bezpečnostní nastavení nebo váš antivirus je příliš podezřívavý.
+    Nejčastěji to nastává u pracovního počítače.
+    Ve skutečnosti jde o nepravé podezření způsobené tím,
+    že instalátor není digitálně podepsán (protože by to stálo každý rok dost peněz).
+    Digitálně nepodepsaný soubor `.exe` některé antiviry znemožní spustit.
 
-    Řešení: Spusťte **7-Zip** a otevřete `Java-Training_setup.exe` v něm.
+    Řešení: Instalátor tedy nespouštějte. Místo toho spusťte **7-Zip** a otevřete `Java-Training_setup.exe` v něm.
     Pomocí **7-Zipu** jde všechny soubory vybalit ručně do `C:\Java-Training` (cílové umístění je **povinné**).
 
     Více ve video návodu:
@@ -76,7 +80,7 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java
 
     Důvod: Nedodrželi jste správný postup práce s otevíracím dialogem a vybrali omylem špatnou složku.
 
-    Řešení: V **IntelliJ IDEA** zvolte v menu **File** -> **Open...** a vyberte správnou složku.
+    Řešení: V **IntelliJ IDEA** zvolte v menu **File** -> **Open...** a vyberte správnou složku. Pozorně se věnujte sekci otevírání projektu v základním video návodu.
 
 
 3.  Problém: Maven build selhal nebo zdrojový text programu zůstal červený.
@@ -106,8 +110,8 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java
             - `cd ..\Projects\DemoApplication`
             - `mvn clean package exec:java`
         - Tentokrát by se už mělo zobrazit okno `It works`.
-        - Znovu zapněte **IntelliJ IDEA**
-        - Stiskněte tlačítko pro reimport projektu.
+        - Znovu zapněte **IntelliJ IDEA**.
+        - Stiskněte tlačítko pro Reimport projektu v záložce Mavenu.
 
         Více ve video návodu:
 
@@ -134,7 +138,7 @@ Bude fajn se zbavit i zástupce **IntelliJ IDEA** v nabídce Start. Najdete ho v
 
 Téměř hotovo.
 
-**Maven** si vytváří cache stažených knihoven ve složce `C:\Users\YOUR_USERNAME\.m2`, takže tu také smažte.
+**Maven** si vytváří cache stažených knihoven ve složce `C:\Users\YOUR_USERNAME\.m2\repository`, takže tu také smažte.
 A to už je všechno.
 
 
@@ -152,9 +156,9 @@ Místo toho se použije přednastavený archív, který se jen rozbalí do povin
 Kdybyste si nainstalovali software z oficiální distribuce, neměli byste ho správně nakonfigurovaný pro školení.
 
 Poznámka: Nic se doopravdy neinstaluje, všechno se jen rozbalí ze zipu (který je součástí `Java-Training_setup.exe`).
-Konfigurace softwaru je také ve složce `C:\Java-Training\User-Config` a nikoliv v uživatelském profilu.
+Konfigurace softwaru je převedena do složky `C:\Java-Training\User-Config` a nikoliv v uživatelském profilu.
 Jde tedy vlastně o *portable distribuci*.
 
 Poznámka: Pokud už máte nainstalované *vlastní* **JDK** nebo **IntelliJ IDEA**, nevadí to, ale na kurzu je používat *nebudeme*.
-Je opravdu nutné, abyste provedli instalaci dle těchto pokynů. Výukové programy z naší instalace nijak neovlivní
-vaše už nainstalované programy. Pokud byste ale instalaci neprovedli, nešly by vám spouštět ukázkové příklady.
+Výukový software z naší instalace nijak neovlivní vaše už nainstalované aplikace.
+Pokud byste ale instalaci neprovedli, nešly by vám spouštět ukázkové příklady.

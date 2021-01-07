@@ -5,195 +5,159 @@ This guide is **only for Windows**.
 You can choose macOS or Linux guide [here](../).
 
 Follow the instructions even if you already have some of the software installed
-(including `C:\Java-Training`). Existing software will just update and any previous projects will not be lost. The `C:\Java-Training\Projects` folder is not erased.
-All other files and subfolders of `C:\Java-Training` will either stay intact or will be overwritten by a newer version of the software.
+(including `C:\Java-Training`). Existing software will just be updated
+and any of your previous projects will not be lost.
+The `C:\Java-Training\Projects` folder is not erased.
+All other files and subfolders of `C:\Java-Training` will either stay intact
+or will be overwritten by a newer version of the software.
 
 
-If you are an experienced user, you can skip to the short [description](advanced-eng.html),
-but we recommend to follow this version.
 
+Installation
+------------
 
+1.  Install **7-Zip**: <https://www.7-zip.org/>
 
-Detail guide:
--------------
-
-1.  Install **7-Zip**.
-
-    Watch out: 7-Zip is better than **WinRAR** or **WinZip**.
+    Watch out! **7-Zip** is much better than **WinRAR** or **WinZip**.
     Install it even if you already have them.
     Especially we noticed **WinRAR** being unable to extract `.7z` correctly.
-    We recommend avoid **WinRAR** and **WinZip** altogether and use exclusively **7-Zip** as it is free and open-source.
-
-	![](img/img001.png)
-
-3.  Run the downloaded installator for 7-Zip.
-
-4.  ![](img/img002.png)
-
-5.  ![](img/img003.png)
-
-6.  ![](img/img004.png)
-
-7. If you are asked by Windows to permit admin changes, go ahead. (Yes/Ano)
-
-    ![](img/img005.png)
-
-8.  ![](img/img006.png)
-
-9. 	![](img/img007.png)
-
-10. Run **7-Zip File Manager**.
-
-    ![](img/img008.png)
-
-11. Open app settings.
-
-    ![](img/img009.png)
-
-12.	Check whether you have 7-Zip associated with .7z a .zip. We recommend using it for all types of supported archives. (All types can be selected by the plus + button)
-
-    ![](img/img010.png)
-
-13.	A couple of convenient settings. Confirm by clicking OK and close all settings dialogs.
-
-    ![](img/img011.png)
+    We recommend to avoid **WinRAR** and **WinZip** altogether and use exclusively **7-Zip** as it is free and open-source.
 
 
+2.  Run **7-Zip File Manager** (`7zFM.exe`).
 
-### The installation procedure itself
+    Click on menu Tools -> Options -> System -> Associate 7-Zip with -> Select all file types (+)
 
-1.  Download the installer
+
+3.  Download the installer of the Java runtime and editor:
     [Java-Training_setup.exe](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training_setup.exe)
 
-2.  Find the downloaded file `Java-Training_setup.exe` (probably in
-    `Downloads`) and run it.
 
-    ![](img/img100.png)
+4.  Follow the video guide:
 
-3.  You will probably hit the warning of missing digital signature. This is not a problem. Accept the exception.
-
-    ![](img/img101.png)
-
-4.  ![](img/img102.png)
-
-5.  If you were unable to run the installer anyway, switch to the manual [extraction of an archive](alternative-eng.html). Otherwise, follow on.
-
-6.  ![](img/img103.png)
-
-7.  ![](img/img104.png)
-
-8.  ![](img/img105.png)
-
-9.  ![](img/img106.png)
-
-10. Installation is finished.
+    <a href="https://www.youtube.com/watch?v=2GgbYtv__yc">
+        <img src="img/video-screenshot.png"/>
+    </a>
 
 
 
-### <a id="test">Test the installation</a>
+### Removal of Temporary Files
 
-1.  Run IntelliJ IDEA. Be patient - the computer will look like it is "doing nothing" after double click, but the splash screen should appear shortly.
-    It is necessary to be connected to the internet at this point.
-
-    ![](img/img300.png)
-
-2.  IntelliJ IDEA will start.
-
-    ![](img/img303.png)
-
-3.  Open the demo project `C:\Java-Training\Projects\DemoApplication`.
-
-    ![](img/img304.png)
-
-4.  Watch out! Always expand the arrows in the open dialog
-    **using single click only**
-    to drill down to subfolder.
-    **Never click twice** on the folder name.
-    Sometimes it could be mistakenly understood by IntelliJ IDEA to import the entire double-clicked folder and not just expanding the folder.
-
-    ![](img/img305.png)
-
-5.  ![](img/img306.png)
-
-6.  Wait for IntelliJ IDEA to index the entire Java runtime.
-    When first run, it can take several minutes.
-    It is necessary to still be connected to the internet.
-
-    ![](img/img307.png)
-
-7.  You should see `Main.java` in the open project. If not, expand the folders in the left panel (clicking on the arrows again) and double-click on the `Main.java`.
-
-    ![](img/img308.png)
-
-8.  If IntelliJ IDEA is correctly set up, the source code in `Main.java`
-    should be blue-violet as on the picture.
-    If you see it you can skip to step 19.
-
-    ![](img/img309.png)
-
-9.  If you had a problem with internet connection, it would happen that you would see errors like bellow. If not, skip the corrective steps.
-
-    ![](img/img310.png)
-
-10. Corrective steps: When finally on the internet, open "Maven" tab.
-
-    ![](img/img311.png)
-
-11. Click `Reimport All Maven Projects` button.
-
-    ![](img/img312.png)
-
-12. Still not fixed? Open Maven `Lifecycle`, choose `clean` and run the action. Watch out! It is a **different arrow then `Run Main`**!
-
-    ![](img/img313.png)
-
-13. It it went OK, you will see `Process finished with exit code 0`
-
-    ![](img/img314.png)
-
-14. Follow on with `package` goal.
-
-    ![](img/img315.png)
-
-15. Success:
-
-    ![](img/img316.png)
-
-16. Repeat `Reimport All Maven Projects`.
-
-    ![](img/img317.png)
-
-17. Look for `SwingExceptionHandler` not being red now.
-
-    ![](img/img318.png)
-
-18. Check the correct situation on picture 17. If it is OK, follow on.
-
-    If not, try more heavy duty steps:
-    - Close IntelliJ IDEA
-    - Run `C:\Java-Training\Env\RunCmd.bat`
-    - Write to the (black) command line (and confirm each line with `Enter`):
-    - `cd ..\Projects\DemoApplication`
-    - `mvn clean`
-    - `mvn package`
-    - Run IntelliJ IDEA again
-    - Click `Reimport All Maven Projects` (as in step 10)
-    - If it doesn't help, we will fix it at the workshop.
-
-19. Run the application
-
-    ![](img/img319.png)
-
-20. Everything should work now:
-
-    ![](img/img321.png)
+After the installation is finished, you may optionally remove redundant files in `Downloads` (`Java-Training_setup.exe`) to reclaim some disk space.
 
 
 
-### Temporary files clean up
-
-You can erase files from `Downloads` (`Java-Training.7z` and `7-Zipu` installer), to save some disk space.
+<br/><br/><br/><br/>
 
 
 
-### And that's it. We are looking forward to meet you at the workshop.
+### Troubleshooting
+
+1.  Problem: Installer `Java-Training_setup.exe` cannot be run because of missing `Run anyway` button or because it is marked as potentially harmful.
+
+    Reason: This may occur when your Windows have too restrictive security settings or your anti-virus software is too suspecting.
+    It is especially common when you use a company computer.
+    In fact, it is not a real problem. It is only a false positive warning.
+    The installer is not digitally signed (because it would cost a lot of money on yearly basis)
+    and therefore some antivirus software prevents it from running.
+    It does *not* mean that it *really* is harmful.
+
+    Solution: Well done then, do not start the installer. Run **7-Zip** instead and open `Java-Training_setup.exe` in it.
+    Using **7-Zipu**, you can extract all files to `C:\Java-Training` manually (target folder is **mandatory**).
+
+    Follow the video guide:
+
+    <a href="https://www.youtube.com/watch?v=eL4nU6XGBaA">
+        <img src="img/video-runanyway_troubleshooting-screenshot.png"/>
+    </a>
+
+
+2.  Problem: You open `Documents and Settings` folder (instead of a valid project `DemoApplication`). Also `Maven` tab is missing on the right hand side bar.
+
+    <a href="img/imported-wrong-folder.png">
+        <img src="img/imported-wrong-folder-thumbnail.png"/>
+    </a>
+
+    Reason: You misclicked in the open dialog and accidentally clicked on a wrong folder to open.
+
+    Solution: In **IntelliJ IDEA**, choose menu **File** -> **Open...** and choose the correct folder. Pay attention to the correct treatment of the open dialog in the regular video guide.
+
+
+3.  Problem: Maven build failed or the source code remained red.
+
+    <a href="img/missing-dependencies.png">
+        <img src="img/missing-dependencies-thumbnail.png"/>
+    </a>
+
+    There may be multiple reasons:
+    - You are currently disconnected from the internet.
+
+      Solution: You need to be connected to the internet the entire time. It will be useful during the programming as well.
+      Go through the entire installation video guide once more while connected to the internet.
+
+    - VPN (i.e. on a company computer).
+
+      Reason: You may have your Windows set up so that **Maven** should use your company private Java library repository, accessible only via VPN. Such a configuration would be in `C:\Users\YOUR_USERNAME\.m2\settings.xml`.
+
+      Solution: Compilation using **Mavenem** (`clean` and `package`) is necessary to be done with internet connection via VPN. Better stay connected to the internet via VPN the whole time.
+
+    - Prior points are fixed but there is still a problem that **IntelliJ IDEA** displays the code with incorrect color.
+
+      Solution: If red colors remain even after repeated execution of **Maven** goals (`clean` a `package`), you may try somewhat more heavy duty approach:
+        - Close **IntelliJ IDEA**
+        - Run `C:\Java-Training\Env\RunCmd.bat`
+        - A Command line will appear. Write following commands into it (and finish each by pressing [Enter]):
+            - `cd ..\Projects\DemoApplication`
+            - `mvn clean package exec:java`
+        - This time the `It works` window should appear.
+        - Start up **IntelliJ IDEA**.
+        - Click on Reimport Maven project again.
+
+        You can follow the video guide:
+
+        <a href="https://www.youtube.com/watch?v=c8dSofAPJ9o">
+            <img src="img/video-maven_troubleshooting-screenshot.png"/>
+        </a>
+
+
+4. If none of the prior worked, will will fix the problem in person before the training.
+
+
+
+<br/><br/><br/><br/>
+
+
+
+Uninstallation
+--------------
+
+The only thing installation in fact does is extract the files to `C:\Java-Training` and spawns a Start menu shortcut for **IntelliJ IDEA**.
+To remove the software package, backup your projects in `C:\Java-Training\Projects`, e.g. to `C:\Users\YOUR_USERNAME\Documents`.
+Afterwards, just delete the entire `C:\Java-Training`.
+Also, delete the **IntelliJ IDEA** shortcut in Start menu. You can find it in `C:\Users\YOUR_USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\IntelliJ Community.lnk`.
+
+Almost done.
+
+**Maven** downloads Java libraries to its cache folder in `C:\Users\YOUR_USERNAME\.m2\repository`. Delete it too.
+And that is all.
+
+
+
+<br/><br/><br/><br/>
+
+
+
+Notes for curious
+-----------------
+
+You will use **Javu** during the training course (namely **AdoptOpenJDK**) and programmer's editor **IntelliJ IDEA** (**Community Edition**).
+You **must not** install it from the **official** sources.
+Use our bundled archive, which is just extracted to (`C:\Java-Training`) and everything works automatically.
+If you installed software from the official sources, you wouldn't have it configured properly for the training.
+
+Note: The software is not really *installed* at all. All files are just extracted from the zip archive (which is bundled inside `Java-Training_setup.exe`).
+Software configuration is diverted to `C:\Java-Training\User-Config` and does not use the user profile folder.
+therefore it is very much a *portable distribution*.
+
+Note: If you already have a *regular* **JDK** or **IntelliJ IDEA** installed, it is not a problem. We will just *not use it*.
+The software from our installation does not interfere with your regular applications.

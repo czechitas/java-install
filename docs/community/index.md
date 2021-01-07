@@ -33,7 +33,7 @@ Installation guide for Java courses
 [Guide for almost all versions of macOS (Intel x86-64)](mac/index-eng.html)
 
 ![](img/logo-mac.png)
-[Guide only for the latest macOS M1 Apple silicon (ARM64)](mac/index-eng.html)
+[Guide only for the latest macOS M1 Apple silicon (ARM64)](mac-arm/index-eng.html)
 
 ![](img/logo-linux.png)
 [Guide for Linux (Intel x86-64)](linux/index-eng.html)
