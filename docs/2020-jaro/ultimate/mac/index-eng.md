@@ -16,20 +16,20 @@ All other files and subfolders of `/Users/YOUR_USERNAME/Java-Training` will eith
 <a id="detailni">Detail guide:</a>
 -------------------------------------
 
-1. Download the installation archive: [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2020-jaro/ultimate/mac/Java-Training.zip)
+1. Download the installation archive:
+   [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2020-jaro/ultimate/mac/Java-Training.zip)
+
 
 2. Follow the video guide:
 
-    <iframe width="768" height="576"
-    	src="https://www.youtube.com/embed/ylUAuXl1ynw"
-    	frameborder="0"
-    	allowfullscreen></iframe>
+    <a href="https://www.youtube.com/watch?v=1mUngV4I9y4">
+        <img src="img/video-screenshot.png"/>
+    </a>
 
 
 3. You can optionally clean up the Downloads folder:
 
-    <iframe width="768" height="576"
-    	src="https://www.youtube.com/embed/MP_UK767uc8"
-    	frameborder="0"
-    	allowfullscreen></iframe>
+    <a href="https://www.youtube.com/watch?v=EeSZ0mV76ys">
+        <img src="img/video-screenshot.png"/>
+    </a>
 

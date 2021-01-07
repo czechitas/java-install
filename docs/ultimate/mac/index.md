@@ -23,7 +23,9 @@ Updatované verze by ztratily konfiguraci a materiály z kurzu by nešly spustit
 <a id="detailni">Detailní postup:</a>
 -------------------------------------
 
-1. Archív s instalací si stáhněte zde: [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2020-jaro/ultimate/mac/Java-Training.zip)
+1. Archív s instalací si stáhněte zde:
+   [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2020-jaro/ultimate/mac/Java-Training.zip)
+
 
 2. Držte se tohoto video návodu:
 
