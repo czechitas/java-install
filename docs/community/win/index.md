@@ -57,13 +57,13 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java
 1.  Problém: Instalátor `Java-Training_setup.exe` nejde spustit, protože není k dispozici volba `Run anyway` nebo ho antivirus označil za potenciálně nebezpečný.
 
     Důvod: Tato situace může nastat, pokud máte ve Windows příliš restriktivní bezpečnostní nastavení nebo váš antivirus je příliš podezřívavý.
-    Nejčastěji to nastává u pracovního počítače.
+    Nejčastěji to nastává u služebního počítače.
     Ve skutečnosti jde o nepravé podezření způsobené tím,
     že instalátor není digitálně podepsán (protože by to stálo každý rok dost peněz).
     Digitálně nepodepsaný soubor `.exe` některé antiviry znemožní spustit.
 
     Řešení: Instalátor tedy nespouštějte. Místo toho spusťte **7-Zip** a otevřete `Java-Training_setup.exe` v něm.
-    Pomocí **7-Zipu** jde všechny soubory vybalit ručně do `C:\Java-Training` (cílové umístění je **povinné**).
+    Pomocí **7-Zipu** jde soubory vybalit ručně do `C:\Java-Training` (cílové umístění je **povinné**).
 
     Více ve video návodu:
 

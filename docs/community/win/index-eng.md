@@ -63,7 +63,7 @@ After the installation is finished, you may optionally remove redundant files in
     It does *not* mean that it *really* is harmful.
 
     Solution: Well done then, do not start the installer. Run **7-Zip** instead and open `Java-Training_setup.exe` in it.
-    Using **7-Zipu**, you can extract all files to `C:\Java-Training` manually (target folder is **mandatory**).
+    Using **7-Zipu**, you can extract the files to `C:\Java-Training` manually (target folder is **mandatory**).
 
     Follow the video guide:
 
