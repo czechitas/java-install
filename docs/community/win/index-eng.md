@@ -64,8 +64,7 @@ After the installation is finished, you may optionally remove redundant files in
 
     Solution: Well done then, do not start the installer.
     Donwload an alternative distribution archive instead:
-    [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training.zip),
-
+    [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training.zip).
     Run **7-Zip** and open `Java-Training.zip` in it.
     Using **7-Zip**, you can extract the files to `C:\Java-Training` manually.
     Target folder is **mandatory**, watch out for the typos.
