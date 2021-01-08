@@ -14,13 +14,17 @@ All other files and subfolders of `/home/YOUR_USERNAME/Java-Training` will eithe
 <a id="detailni">Detail guide:</a>
 -------------------------------------
 
-1. Download the installation archive: [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/linux/Java-Training.zip)
+1. Download the installation archive:
+   [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/linux/Java-Training.zip)
 
 2. Follow the video guide:
 
-    <a href="https://www.youtube.com/watch?v=EC1er92kzec">
+    <a href="https://www.youtube.com/watch?v=RTY48-kLA2Q">
         <img src="img/video-screenshot.jpg"/>
     </a>
 
 
-3. You can optionally clean up the Downloads folder.
+3. If there was a problem, check also the troubleshooting section in macOS and Windows install to get tips.
+
+
+4. You can optionally clean up the Downloads folder.
