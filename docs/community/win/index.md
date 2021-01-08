@@ -75,7 +75,7 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java
 
     Více ve video návodu:
 
-    <a href="https://www.youtube.com/watch?v=eL4nU6XGBaA">
+    <a href="https://www.youtube.com/watch?v=txnDv7TcRVE">
         <img src="img/video-runanyway_troubleshooting-screenshot.png"/>
     </a>
 

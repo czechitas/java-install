@@ -75,7 +75,7 @@ After the installation is finished, you may optionally remove redundant files in
 
     Follow the video guide:
 
-    <a href="https://www.youtube.com/watch?v=eL4nU6XGBaA">
+    <a href="https://www.youtube.com/watch?v=txnDv7TcRVE">
         <img src="img/video-runanyway_troubleshooting-screenshot.png"/>
     </a>
 
