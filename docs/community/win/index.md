@@ -62,8 +62,16 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java
     že instalátor není digitálně podepsán (protože by to stálo každý rok dost peněz).
     Digitálně nepodepsaný soubor `.exe` některé antiviry znemožní spustit.
 
-    Řešení: Instalátor tedy nespouštějte. Místo toho spusťte **7-Zip** a otevřete `Java-Training_setup.exe` v něm.
-    Pomocí **7-Zipu** jde soubory vybalit ručně do `C:\Java-Training` (cílové umístění je **povinné**).
+    Řešení: Instalátor tedy nespouštějte.
+    Místo toho si stáhněte alternativní distribuční archív
+    [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training.zip),
+    Spusťte **7-Zip** a otevřete `Java-Training.zip` v něm.
+    Pomocí **7-Zipu** jde soubory vybalit ručně do `C:\Java-Training`.
+    Cílové umístění je **povinné**, pozor na překlepy.
+
+    Poznámka: Pokud byste nemohli mít nainstalovaný **7-Zip**,
+    můžete distribuční archív rozbalit i jinou aplikací.
+    Nicméně, preferujte **7-Zip**, pokud to jde, protože je zaručené, že funguje správně.
 
     Více ve video návodu:
 

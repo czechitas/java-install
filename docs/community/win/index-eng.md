@@ -62,8 +62,17 @@ After the installation is finished, you may optionally remove redundant files in
     and therefore some antivirus software prevents it from running.
     It does *not* mean that it *really* is harmful.
 
-    Solution: Well done then, do not start the installer. Run **7-Zip** instead and open `Java-Training_setup.exe` in it.
-    Using **7-Zipu**, you can extract the files to `C:\Java-Training` manually (target folder is **mandatory**).
+    Solution: Well done then, do not start the installer.
+    Donwload an alternative distribution archive instead:
+    [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training.zip),
+
+    Run **7-Zip** and open `Java-Training.zip` in it.
+    Using **7-Zip**, you can extract the files to `C:\Java-Training` manually.
+    Target folder is **mandatory**, watch out for the typos.
+
+    Note: If you could not use **7-Zip** (e.g. you do not have admin rights to install new software),
+    you should be able to extract the archive using other applications as well.
+    Try to prefer **7-Zip** if possible, though, as it is guaranteed to work.
 
     Follow the video guide:
 
