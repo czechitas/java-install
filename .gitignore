@@ -2,3 +2,4 @@
 /**/.idea/
 *.iml
 Gemfile.lock
+Jekyll*.bat
