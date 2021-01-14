@@ -36,7 +36,7 @@ Instalace
 
 4. Držte se tohoto video návodu:
 
-    <a href="https://www.youtube.com/watch?v=2GgbYtv__yc">
+    <a href="https://www.youtube.com/watch?v=rPZIK3RY7WQ">
         <img src="img/video-screenshot.png"/>
     </a>
 
