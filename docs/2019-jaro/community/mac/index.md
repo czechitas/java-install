@@ -27,7 +27,7 @@ Zkušené uživatelky mohou přeskočit ke krátkému [popisu](#kratky),
 ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 1.  Stáhněte si archív s instalací
-    [Java-Training.zip](https://1drv.ms/f/s!AijQjx8qkEJYa_BRzHsamh93DlA).
+    [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2019-podzim/community/mac/Java-Training.zip).
 
 7. 	Soubor `Java-Traning.zip` rozbalte dvojklinutím.
     ![](img/screenshot07.png)
@@ -47,7 +47,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
      Při přetahování podržte klávesu Option (Alt),
      aby v případě už existující starší verze `Java-Training` v cílové složce
      nabídl **Finder** sloučení složek (**Merge**).
-     
+
     ![](img/screenshot13.png)
 
 14. Pokud na vás vyskočí tento dialog,
@@ -56,17 +56,17 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
     (složku `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects`).
     Případně můžete přetahování zrušit, složku s projekty si přesunout
     (například do Documents) a zopakovat předchozí krok.
-    
+
     Pokud se tento dialog neobjevil, předchozí instalaci jste neměly
     a můžete tento krok ignorovat.
-    
+
     ![](img/screenshot14.png)
 
 15. ![](img/screenshot15.png)
 
 16. Nainstalujte aplikaci `IntelliJ IDEA CE - Java-Training`
     spuštěním `ideaIC-2018.3.5.1.dmg`
-    
+
     ![](img/screenshot16.png)
 
 17. ![](img/screenshot17.png)
@@ -80,7 +80,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 21. Aplikaci `IntelliJ IDEA CE - Java-Training`
     je nutné spustit, aby se jí zkontrolovat digitální podpis.
     Ihned po spuštění ji zase zavřete.
-    
+
     ![](img/screenshot21.png)
 
 22. ![](img/screenshot22.png)
@@ -91,13 +91,13 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 25. Digitální podpis aplikace byl zkontrolován.
     Aplikaci ihned zavřete odmítnutím podmínek JetBrains Privacy Policy
-    nebo prostě červeným zavíracím tlačítkem.  
-    
+    nebo prostě červeným zavíracím tlačítkem.
+
     ![](img/screenshot25.png)
 
 26. Před skutečným spuštěním IntelliJ IDEA je nutné jí přenastavit
     umístění konfiguračních souborů v `idea.properties`.
-        
+
     ![](img/screenshot26.png)
 
 27. ![](img/screenshot27.png)
@@ -119,7 +119,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
     idea.system.path=~/Java-Training/User-Config/IntelliJ-Community/system
     idea.log.path=~/Java-Training/User-Config/IntelliJ-Community/system/log
     ~~~~
-    
+
     ![](img/screenshot31.png)
 
 32. ![](img/screenshot32.png)
@@ -127,7 +127,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 33. ![](img/screenshot33.png)
 
 34. Dále je potřeba změnit v konfiguraci IntelliJ IDEA zástupné znaky pro cesty do vaší uživatelské složky.
-    
+
     ![](img/screenshot34.png)
 
 33. ![](img/screenshot35.png)
@@ -135,7 +135,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 33. ![](img/screenshot36.png)
 
 33. Najděte si soubor `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/User-Config/IntelliJ-Community/config/options/path.macros.xml`.
-    
+
     ![](img/screenshot37.png)
 
 33. Klikněte na něj pravým tlačítkem a zvolte Open With -> **Text Edit**
@@ -145,7 +145,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 33. ![](img/screenshot39.png)
 
 33. Pojďte zpátky do **Finderu**
-        
+
     ![](img/screenshot40.png)
 
 33. ![](img/screenshot41.png)
@@ -153,11 +153,11 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 33. ![](img/screenshot42.png)
 
 33. Ověřte, jak **přesně** se jmenuje vaše uživatelská složka. Na demonstračním snímku je to `student`.
-    
+
     ![](img/screenshot43.png)
 
 33. Nyní je potřeba v konfiguračním souboru změnit zástupný text `VASE_UZIVATELSKE_JMENO`
-    za skutečný název složky. 
+    za skutečný název složky.
 
     ![](img/screenshot44.png)
 
@@ -166,7 +166,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
     ![](img/screenshot45.png)
 
 33. Změny uložte a editor ukončete
-    
+
     ![](img/screenshot46.png)
 
 33. ![](img/screenshot47.png)
@@ -181,9 +181,9 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
     ![](img/screenshot50.png)
 
-37. Nyní již můžete IntelliJ IDEA CE - Java-Training 
+37. Nyní již můžete IntelliJ IDEA CE - Java-Training
     normálně spustit.
-    
+
     ![](img/screenshot51.png)
 
 38. ![](img/screenshot52.png)
@@ -214,7 +214,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 47. Správně nastavená IntelliJ IDEA obarvuje zdrojový text v Main.java do modrofialova.
     Je to vidět v prostředku na obrázku:
     ![](img/screenshot61.png)
-    
+
     Pokud by **zůstal zdrojový text** povětšinou **černý**, je to **chyba**.
     Buď zkuste provést pokyny ještě jednou nebo to nechte tak
     a pomůžeme vám osobně na lekci.
@@ -224,7 +224,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
     ![](img/screenshot62.png)
 
-49. Pokud vidíte tento nápis, instalace je hotová. 
+49. Pokud vidíte tento nápis, instalace je hotová.
 
     ![](img/screenshot63.png)
 
@@ -235,7 +235,7 @@ Po instalaci je nepovinně možno vymazat dočasné soubory, aby nezabíraly mí
 50. ![](img/screenshot64.png)
 
 51. Smažte instalační medium `ideaIC-2018.3.5.1.dmg`.
-    
+
     ![](img/screenshot65.png)
 
 52. ![](img/screenshot66.png)
@@ -263,12 +263,12 @@ Doporučujeme tento popis nepoužít a postupovat podle obrázků [výše](#deta
 Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (Community Edition).
 **Neinstalujte** si je **ručně**, stáhněte si předpřiravený archív.
 
-1.  Stáhněte si [Java-Training.zip](https://1drv.ms/f/s!AijQjx8qkEJYa_BRzHsamh93DlA).
-   
+1.  Stáhněte si [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2019-podzim/community/mac/Java-Training.zip).
+
 2.  Pokud už jste někdy instalaci na Java kurzy prováděli, zazálohujte si složku
     `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects` (například do Documents),
     abyste o starší projekty nepřisli.
-   
+
 
 2.  Vybalte obsah `Java-Training.zip` do `/Users/VASE_UZIVATELSKE_JMENO/Java-Training`.
 
@@ -282,17 +282,17 @@ Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (
 
     Pro kontrolu správného umístění zkontrolujte, že máte přítomnu tuto složku:
     `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects/DemoApplication`.
-   
+
 3.  Připojte instalační medium `ideaIC-2018.3.5.1.dmg`
     (které najdete v `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/ideaIC-2018.3.5.1.dmg`)
     a nainstalujte z něj aplikaci `IntelliJ IDEA CE - Java-Training`.
-   
+
 4.  Spusťte tuto aplikaci, aby se zkontroloval její digitální podpis a ihned ji zavřete.
     Před skutečným používáním je totiž potřeba jí nastavit nové umístění konfiguračních souborů.
-   
+
 5.  Ve složce `/Applications` vstupte do složky
     `IntelliJ IDEA CE - Java-Training.app` (Show package contents)
-   
+
 6.  <a id="config">Přidejte</a> do
     `/Applications/IntelliJ IDEA CE - Java-Training.app/Contents/bin/idea.properties`
     tyto řádky:
@@ -314,7 +314,7 @@ Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (
     ~~~~
     Změňte zástupný text `VASE_UZIVATELSKE_JMENO` na vaše skutečné jméno složky.
     Toto umístění je specifické pro váš počítač, proto je nutné to udělat ručně.
-     
+
 8.  Otevřete ukázkový projekt v
     `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects/DemoApplication`.
 

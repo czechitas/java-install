@@ -31,7 +31,7 @@ Zkušené uživatelky mohou přeskočit ke krátkému [popisu](#kratky),
 ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
 
 1.  Stáhněte si archív s instalací
-    [Java-Training.7z](https://1drv.ms/f/s!AijQjx8qkEJYbKXo6btjwb98FSE)
+    [Java-Training.7z](https://github.com/czechitas/java-install/releases/download/2019-jaro/community/win/Java-Training.7z)
 
 1.  Nainstalujte si **7-Zip**.
 
@@ -125,7 +125,7 @@ ale doporučujeme to nedělat a držet se tohoto obrázkového návodu.
     ![](img/screenshot31.png)
 
 32. Pozor, v otevíracím dialogu rozklikávejte levé šipečky
-    **pouze jedním kliknutím** 
+    **pouze jedním kliknutím**
     a vstupujte tak do podsložek.
     **Neklikejte** na jméno složky **2x**.
     IntelliJ IDEA to čas od času může špatně pochopit a pokusit se složku,
@@ -176,7 +176,7 @@ Doporučujeme tento popis nepoužít a postupovat podle obrázků [výše](#deta
 Na kurzu budete potřebovat Javu (JDK) a programátorský editor IntelliJ IDEA (Community Edition).
 **Neinstalujte** si je **ručně**, stáhněte si předpřiravený archív.
 
-1.  Stáhněte si [Java-Training.7z](https://1drv.ms/f/s!AijQjx8qkEJYbKXo6btjwb98FSE).
+1.  Stáhněte si [Java-Training.7z](https://github.com/czechitas/java-install/releases/download/2019-jaro/community/win/Java-Training.7z).
 
 2.  Pokud nemáte nainstalovaný **7-Zip**, nainstalujte si ho.
 
