@@ -49,7 +49,7 @@ Instalace
 
 5.  Správný postup si můžete zkontrolovat na videu:
 
-    <a href="https://youtu.be/oWzopbi8szE">
+    <a href="https://youtu.be/D1Dv82dBVbw">
         <img src="img/selenium-firefoxdriver-preview.png"/>
     </a>
 
@@ -93,6 +93,6 @@ Byli jste varováni.
 
 Správný postup si můžete zkontrolovat na videu:
 
-<a href="https://youtu.be/Rr7EPaYaWwA">
+<a href="https://youtu.be/_Gc-jd1g_Tg">
     <img src="img/selenium-chromedriver-preview.png"/>
 </a>
