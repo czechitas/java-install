@@ -46,11 +46,13 @@ Instalace
     Pokud vše proběhne s výsledným hlášením *It worked fine!*, máte hotovo.
     V případě chyby se ji buď pokuste sami vyřešit nebo se ozvěte.
 
-    <!--
-    <a href="https://www.youtube.com/watch?v=rPZIK3RY7WQ">
-        <img src="img/video-screenshot.png"/>
+
+5.  Správný postup si můžete zkontrolovat na videu:
+
+    <a href="https://youtu.be/oWzopbi8szE">
+        <img src="img/selenium-firefoxdriver-preview.png"/>
     </a>
-    -->
+
 
 
 <br/><br/><br/><br/>
@@ -88,3 +90,9 @@ Obecně je vhodné pro Selenium nepoužívat prohlížeč, který běžně použ
 Pokud budete používat stejný prohlížeč pro osobní brouzdání i Selenium,
 nezřídka se stane, že omylem místo Seleniem otevřeného prohlížeče zavřete okno s osobními stránkami.
 Byli jste varováni.
+
+Správný postup si můžete zkontrolovat na videu:
+
+<a href="https://youtu.be/Rr7EPaYaWwA">
+    <img src="img/selenium-chromedriver-preview.png"/>
+</a>
