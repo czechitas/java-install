@@ -43,10 +43,10 @@ Instalace
 
 4.  Otevřete testovací demo aplikaci v IntelliJ IDEA a spusťte ji.
 
-    Pokud vše proběhne s výsledným hlášením *It worked fine!*, máte hotovo.
+    Pokud vše proběhne s výsledným hlášením `It worked fine!`, máte hotovo.
     V případě chyby se ji buď pokuste sami vyřešit nebo se ozvěte.
 
-    Poznámka: Chybová hláška v konzoli je v pořádku. Nejedná se o problém. Nemá to vliv na funkci.
+    Poznámka: Chybová hláška níže, která se objevuje v konzoli, je v pořádku. Nejedná se o problém. Nemá to vliv na funkci.
 
     ~~~~
     ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, message will be lost
