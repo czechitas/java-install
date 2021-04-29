@@ -41,7 +41,20 @@ Instalace
     nebo `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects` na macOS nebo Linuxu.
 
 
-4.  Otevřete testovací aplikaci `DemoSeleniumApplication` v IntelliJ IDEA a spusťte ji.
+4.  Otevřete testovací aplikaci `DemoSeleniumApplication` v IntelliJ IDEA
+    a počkejte, až se celý projekt načte
+    a zmizí tím pádem ukazatel postupu na spodní liště IntelliJ IDEA.
+
+
+5.  Pro jistotu si ještě vyžádejte občerstvení mavenové konfigurace projektu.
+
+    V IntelliJ IDEA na pravé liště je tlačítko Maven. Rozbalí vám rám Mavenu.
+    Klikněte na tlačítko *Reload All Maven Projects*.
+    Až se vše provede, rozbalte v rámu Mavenu ještě DemoSeleniumApplication -> Lifecycle -> `package`.
+    Dvojklikem vyvolejte `package`.
+
+
+6.  Demo aplikaci klasicky spusťte.
 
     Pokud vše proběhne s výsledným hlášením `It worked fine!`, máte hotovo.
     V případě chyby se ji buď pokuste sami vyřešit nebo se ozvěte.
@@ -53,7 +66,7 @@ Instalace
     ~~~~
 
 
-5.  Správný postup si můžete zkontrolovat na videu:
+7.  Správný postup si můžete zkontrolovat na videu:
 
     <a href="https://youtu.be/D1Dv82dBVbw">
         <img src="img/selenium-firefoxdriver-preview.png"/>
