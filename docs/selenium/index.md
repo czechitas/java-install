@@ -68,7 +68,7 @@ Instalace
 
 7.  Správný postup si můžete zkontrolovat na videu:
 
-    <a href="https://youtu.be/D1Dv82dBVbw">
+    <a href="https://youtu.be/KO37rrDmhr4">
         <img src="img/selenium-firefoxdriver-preview.png"/>
     </a>
 
