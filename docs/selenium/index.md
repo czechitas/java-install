@@ -41,7 +41,7 @@ Instalace
     nebo `/Users/VASE_UZIVATELSKE_JMENO/Java-Training/Projects` na macOS nebo Linuxu.
 
 
-4.  Otevřete testovací demo aplikaci v IntelliJ IDEA a spusťte ji.
+4.  Otevřete testovací aplikaci `DemoSeleniumApplication` v IntelliJ IDEA a spusťte ji.
 
     Pokud vše proběhne s výsledným hlášením `It worked fine!`, máte hotovo.
     V případě chyby se ji buď pokuste sami vyřešit nebo se ozvěte.
