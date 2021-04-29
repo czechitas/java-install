@@ -46,6 +46,12 @@ Instalace
     Pokud vše proběhne s výsledným hlášením *It worked fine!*, máte hotovo.
     V případě chyby se ji buď pokuste sami vyřešit nebo se ozvěte.
 
+    Poznámka: Chybová hláška v konzoli je v pořádku. Nejedná se o problém. Nemá to vliv na funkci.
+
+    ~~~~
+    ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, message will be lost
+    ~~~~
+
 
 5.  Správný postup si můžete zkontrolovat na videu:
 
