@@ -22,15 +22,21 @@ Instalace
 ---------
 
 1. Stáhněte si instalátor javového prostředí a editoru:
-   [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/mac-arm/Java-Training.zip)
+   [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2022-jaro/community/mac-arm/Java-Training.zip)
 
 
 2. Držte se tohoto video návodu:
 
     <a href="https://www.youtube.com/watch?v=0L5WAANyGGs">
-        <img src="img/video-screenshot.jpg"/>
+        <img src="img/video-screenshot.png"/>
     </a>
 
+
+3. Vyzkoušejte otevřít a spustit Demo project:
+
+    <a href="https://www.youtube.com/watch?v=0L5WAANyGGs">
+        <img src="img/video-demo_project-screenshot.png"/>
+    </a>
 
 
 ### Úklid dočasných souborů
@@ -93,7 +99,19 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java
         </a>
 
 
-3. Pokud by nic z toho nezabralo, vyřešíme váš problém osobně před kurzem.
+3. Maven build prošel bez problému, všechno v souboru `Main.java` je obarvené modře / fialově,
+   obzvlášť řádek 3 v zeleném rámečku `import net.sevecek.util.SwingExceptionHandler;`
+   je modrý (a nehlásí červeně chybu), ale projekt stejně nejde spustit.
+
+    <a href="img/maven-ok-compiler-fail.png">
+        <img src="img/maven-ok-compiler-fail-thumbnail.png"/>
+    </a>
+
+   Řešení: Restartujte IntelliJ IDEA. Po znovuspuštění IntelliJ IDEA by už měl jít projekt spustit.
+   Asi chyba v Matrixu.
+
+
+4. Pokud by nic z toho nezabralo, vyřešíme váš problém osobně před kurzem.
 
 
 

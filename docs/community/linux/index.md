@@ -19,7 +19,7 @@ Updatované verze by ztratily konfiguraci a materiály z kurzu by nešly spustit
 -------------------------------------
 
 1. Archív s instalací si stáhněte zde:
-   [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/linux/Java-Training.zip)
+   [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2022-jaro/community/linux/Java-Training.zip)
 
 2. Držte se tohoto video návodu:
 

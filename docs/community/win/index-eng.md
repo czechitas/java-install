@@ -30,7 +30,7 @@ Installation
 
 
 3.  Download the installer of the Java runtime and editor:
-    [Java-Training_setup.exe](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training_setup.exe)
+    [Java-Training_setup.exe](https://github.com/czechitas/java-install/releases/download/2022-jaro/community/win/Java-Training_setup.exe)
 
 
 4.  Follow the video guide:
@@ -39,6 +39,12 @@ Installation
         <img src="img/video-screenshot.png"/>
     </a>
 
+
+5. Try to open and run the Demo project:
+
+    <a href="https://www.youtube.com/watch?v=rPZIK3RY7WQ">
+        <img src="img/video-demo_project-screenshot.png"/>
+    </a>
 
 
 ### Removal of Temporary Files
@@ -64,7 +70,7 @@ After the installation is finished, you may optionally remove redundant files in
 
     Solution: Well done then, do not start the installer.
     Donwload an alternative distribution archive instead:
-    [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training.zip).
+    [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2022-jaro/community/win/Java-Training.zip).
     Run **7-Zip** and open `Java-Training.zip` in it.
     Using **7-Zip**, you can extract the files to `C:\Java-Training` manually.
     Target folder is **mandatory**, watch out for the typos.
@@ -128,7 +134,19 @@ After the installation is finished, you may optionally remove redundant files in
         </a>
 
 
-4. If none of the prior worked, will will fix the problem in person before the training.
+4. Maven build was OK, everything in the file `Main.java` is blue / violet,
+   especially line 3 in the green box `import net.sevecek.util.SwingExceptionHandler;`
+   is blue (as opposed to the red error), but the project still fails to start.
+
+    <a href="img/maven-ok-compiler-fail.png">
+        <img src="img/maven-ok-compiler-fail-thumbnail.png"/>
+    </a>
+
+   Solution: Restart IntelliJ IDEA. When IntelliJ IDEA restarts, it should already work.
+   Perhaps an error in Matrix.
+
+
+5. If none of the prior worked, will will fix the problem in person before the training.
 
 
 
@@ -155,8 +173,8 @@ And that is all.
 
 
 
-Notes for curious
------------------
+Notes for those curious
+-----------------------
 
 You will use **Javu** during the training course (namely **AdoptOpenJDK**) and programmer's editor **IntelliJ IDEA** (**Community Edition**).
 You **must not** install it from the **official** sources.

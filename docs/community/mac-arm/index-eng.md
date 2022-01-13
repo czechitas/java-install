@@ -15,15 +15,21 @@ Installation
 ------------
 
 1. Download the installation archive:
-   [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/mac-arm/Java-Training.zip)
+   [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2022-jaro/community/mac-arm/Java-Training.zip)
 
 
 2. Follow the video guide:
 
     <a href="https://www.youtube.com/watch?v=0L5WAANyGGs">
-        <img src="img/video-screenshot.jpg"/>
+        <img src="img/video-screenshot.png"/>
     </a>
 
+
+3. Try to open and run the Demo project:
+
+    <a href="https://www.youtube.com/watch?v=0L5WAANyGGs">
+        <img src="img/video-demo_project-screenshot.png"/>
+    </a>
 
 
 ### Removal of Temporary Files
@@ -86,7 +92,19 @@ After the installation is finished, you may optionally remove redundant files in
         </a>
 
 
-3. If none of the prior worked, will will fix the problem in person before the training.
+3. Maven build was OK, everything in the file `Main.java` is blue / violet,
+   especially line 3 in the green box `import net.sevecek.util.SwingExceptionHandler;`
+   is blue (as opposed to the red error), but the project still fails to start.
+
+    <a href="img/maven-ok-compiler-fail.png">
+        <img src="img/maven-ok-compiler-fail-thumbnail.png"/>
+    </a>
+
+   Solution: Restart IntelliJ IDEA. When IntelliJ IDEA restarts, it should already work.
+   Perhaps an error in Matrix.
+
+
+4. If none of the prior worked, will will fix the problem in person before the training.
 
 
 
@@ -113,8 +131,8 @@ And that is all.
 
 
 
-Notes for curious
------------------
+Notes for those curious
+-----------------------
 
 You will use **Javu** during the training course (namely **AdoptOpenJDK**) and programmer's editor **IntelliJ IDEA** (**Community Edition**).
 You **must not** install it from the **official** sources.

@@ -31,7 +31,7 @@ Instalace
 
 
 3.  Stáhněte si instalátor javového prostředí a editoru:
-    [Java-Training_setup.exe](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training_setup.exe).
+    [Java-Training_setup.exe](https://github.com/czechitas/java-install/releases/download/2022-jaro/community/win/Java-Training_setup.exe).
 
 
 4. Držte se tohoto video návodu:
@@ -40,6 +40,12 @@ Instalace
         <img src="img/video-screenshot.png"/>
     </a>
 
+
+5. Vyzkoušejte otevřít a spustit Demo project:
+
+    <a href="https://www.youtube.com/watch?v=rPZIK3RY7WQ">
+        <img src="img/video-demo_project-screenshot.png"/>
+    </a>
 
 
 ### Úklid dočasných souborů
@@ -64,7 +70,7 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java
 
     Řešení: Instalátor tedy nespouštějte.
     Místo toho si stáhněte alternativní distribuční archív:
-    [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2021-jaro/community/win/Java-Training.zip).
+    [Java-Training.zip](https://github.com/czechitas/java-install/releases/download/2022-jaro/community/win/Java-Training.zip).
     Spusťte **7-Zip** a otevřete `Java-Training.zip` v něm.
     Pomocí **7-Zipu** jde soubory vybalit ručně do `C:\Java-Training`.
     Cílové umístění je **povinné**, pozor na překlepy.
@@ -128,7 +134,19 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`Java
         </a>
 
 
-4. Pokud by nic z toho nezabralo, vyřešíme váš problém osobně před kurzem.
+4. Maven build prošel bez problému, všechno v souboru `Main.java` je obarvené modře / fialově,
+   obzvlášť řádek 3 v zeleném rámečku `import net.sevecek.util.SwingExceptionHandler;`
+   je modrý (a nehlásí červeně chybu), ale projekt stejně nejde spustit.
+
+    <a href="img/maven-ok-compiler-fail.png">
+        <img src="img/maven-ok-compiler-fail-thumbnail.png"/>
+    </a>
+
+   Řešení: Restartujte IntelliJ IDEA. Po znovuspuštění IntelliJ IDEA by už měl jít projekt spustit.
+   Asi chyba v Matrixu.
+
+
+5. Pokud by nic z toho nezabralo, vyřešíme váš problém osobně před kurzem.
 
 
 
