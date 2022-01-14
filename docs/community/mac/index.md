@@ -27,14 +27,14 @@ Instalace
 
 2. Držte se tohoto video návodu:
 
-    <a href="https://www.youtube.com/watch?v=0L5WAANyGGs">
+    <a href="https://www.youtube.com/watch?v=MJ5fcocKc-0">
         <img src="img/video-screenshot.png"/>
     </a>
 
 
 3. Vyzkoušejte otevřít a spustit Demo project:
 
-    <a href="https://www.youtube.com/watch?v=0L5WAANyGGs">
+    <a href="https://www.youtube.com/watch?v=4lOfLpJDp3c">
         <img src="img/video-demo_project-screenshot.png"/>
     </a>
 
