@@ -27,17 +27,17 @@ Aktuální verze distribučních archívů:
 ------------------------------------
 - Community
     - Windows
-        - Java-Training.7z (2019-10-11 12:52)<br/>
-          https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/community/win/Java-Training.7z
+        - Java-Training.7z (2022-01-13)<br/>
+          https://github.com/czechitas/java-install-dist/releases/download/2022-jaro/community/win/Java-Training.7z
     - macOS
-        - Java-Training.zip (2019-10-11 14:47)<br/>
-          https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/community/mac/Java-Training.zip
+        - Java-Training.zip (2022-01-13)<br/>
+          https://github.com/czechitas/java-install-dist/releases/download/2022-jaro/community/mac/Java-Training.zip
 - Ultimate
     - Windows
-        - Java-Training.7z (2019-10-11 12:02)<br/>
+        - Java-Training.7z (2020-01-29)<br/>
           https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/ultimate/win/Java-Training.7z
     - macOS
-        - Java-Training.zip (2019-10-11 13:45)<br/>
+        - Java-Training.zip (2021-03-24)<br/>
           https://github.com/czechitas/java-install-dist/releases/download/2020-jaro/ultimate/mac/Java-Training.zip
 
 
@@ -61,10 +61,10 @@ Například: `https://github.com/czechitas/java-install-dist/releases/download/`
 
 Tech tip
 --------
-Aby fungoval redirect z https://javainstall.czechitas.cz/community/ na konkrétní stránku s pokyny (např. https://javainstall.czechitas.cz/2020-jaro/community/),
-je v Jekyllu přidán plugin `redirect`. V cílové stránce (např. `/docs/2020-jaro/community/index.md`) musí být uvedeno:
+Aby fungoval redirect z verzovaných stránek https://javainstall.czechitas.cz/2022-jaro/community/ na aktuální stránku s pokyny (např. https://javainstall.czechitas.cz/community/),
+je v Jekyllu přidáno nastavení ve Front matter v cílové stránce (např. `/docs/2022-jaro/community/index.md`):
 ~~~~
 ---
-redirect_from: "/community/"
+redirect_to: "/community/"
 ---
 ~~~~
