@@ -51,7 +51,7 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`/hom
 
 ### Troubleshooting
 
-1.  Problém: Otevřela se složka `Downloads` (nebo kterákoliv jiná složka než `DemoApplication`) a vpravo chybí záložka `Maven`.
+1.  Problém: Otevřela se složka `Documents` (nebo kterákoliv jiná složka než `DemoApplication`) a vpravo chybí záložka `Maven`.
 
     <a href="img/imported-wrong-folder.png">
         <img src="img/imported-wrong-folder-thumbnail.png"/>

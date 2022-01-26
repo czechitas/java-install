@@ -44,7 +44,7 @@ After the installation is finished, you may optionally remove redundant files in
 
 ### Troubleshooting
 
-1.  Problem: You open `Downloads` folder (instead of a valid project `DemoApplication`). Also `Maven` tab is missing on the right hand side bar.
+1.  Problem: You open `Documents` folder (instead of a valid project `DemoApplication`). Also `Maven` tab is missing on the right hand side bar.
 
     <a href="img/imported-wrong-folder.png">
         <img src="img/imported-wrong-folder-thumbnail.png"/>
