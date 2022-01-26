@@ -32,6 +32,12 @@ Aktuální verze distribučních archívů:
     - macOS
         - Java-Training.zip (2022-01-13)<br/>
           https://github.com/czechitas/java-install-dist/releases/download/2022-jaro/community/mac/Java-Training.zip
+    - macOS (ARM)
+        - Java-Training.zip (2022-01-13)<br/>
+          https://github.com/czechitas/java-install-dist/releases/download/2022-jaro/community/mac-arm/Java-Training.zip
+    - Linux
+        - Java-Training.zip (2022-01-23)<br/>
+          https://github.com/czechitas/java-install-dist/releases/download/2022-jaro/community/mac-arm/Java-Training.zip
 - Ultimate
     - Windows
         - Java-Training.7z (2020-01-29)<br/>
