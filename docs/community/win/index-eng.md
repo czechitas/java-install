@@ -35,14 +35,14 @@ Installation
 
 4.  Follow the video guide:
 
-    <a href="https://www.youtube.com/watch?v=7F8z6yh_Lnw">
+    <a href="https://www.youtube.com/watch?v=aXHFVBs0-mE">
         <img src="img/video-screenshot.png"/>
     </a>
 
 
 5. Try to open and run the Demo project:
 
-    <a href="https://www.youtube.com/watch?v=RpYU-8eHA2w">
+    <a href="https://www.youtube.com/watch?v=sXMS8Gso4zk">
         <img src="img/video-demo_project-screenshot.png"/>
     </a>
 

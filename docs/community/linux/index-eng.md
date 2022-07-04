@@ -20,14 +20,14 @@ Installation
 
 2. Follow the video guide:
 
-    <a href="https://www.youtube.com/watch?v=2RBRKgZgLzQ">
+    <a href="https://www.youtube.com/watch?v=IUS62-mY9HI">
         <img src="img/video-screenshot.png"/>
     </a>
 
 
 3. Try to open and run the Demo project:
 
-    <a href="https://www.youtube.com/watch?v=dK2smUdYkc4">
+    <a href="https://www.youtube.com/watch?v=WwsUsML_wLY">
         <img src="img/video-demo_project-screenshot.png"/>
     </a>
 
@@ -87,7 +87,7 @@ After the installation is finished, you may optionally remove redundant files in
 
         You can follow the video guide:
 
-        <a href="https://www.youtube.com/watch?v=GigCCU_DsCY">
+        <a href="https://www.youtube.com/watch?v=LX3i6UJZ-Gs">
             <img src="img/video-maven_troubleshooting-screenshot.png"/>
         </a>
 

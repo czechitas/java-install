@@ -27,14 +27,14 @@ Instalace
 
 2. Držte se tohoto video návodu:
 
-    <a href="https://www.youtube.com/watch?v=2RBRKgZgLzQ">
+    <a href="https://www.youtube.com/watch?v=IUS62-mY9HI">
         <img src="img/video-screenshot.png"/>
     </a>
 
 
 3. Vyzkoušejte otevřít a spustit Demo project:
 
-    <a href="https://www.youtube.com/watch?v=dK2smUdYkc4">
+    <a href="https://www.youtube.com/watch?v=WwsUsML_wLY">
         <img src="img/video-demo_project-screenshot.png"/>
     </a>
 
@@ -94,7 +94,7 @@ Po instalaci je nepovinně možno vymazat dočasné soubory v `Downloads` (`/hom
 
         Více ve video návodu:
 
-        <a href="https://www.youtube.com/watch?v=GigCCU_DsCY">
+        <a href="https://www.youtube.com/watch?v=LX3i6UJZ-Gs">
             <img src="img/video-maven_troubleshooting-screenshot.png"/>
         </a>
 
